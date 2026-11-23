@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T22:21:41+00:00",
+ "generated": "2026-11-23T04:38:12+00:00",
  "shard": 3,
  "shards": {
   "1": "replay",
@@ -376,6 +376,16 @@
    "url": "https://icpc.global/regionals/finder/APSEPC-2025/standings",
    "fetched": "2026-04-26",
    "sha256_source": "c799c9aa8fe6b423cad30783199371e9b65610a5cafaab4f1ab0abb50b5c8261"
+  },
+  {
+   "contest": "apc-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/apc/apc-2026/scoreboard/20261122-live-dbb253e0/page.html",
+   "url": "https://icpcapac.firebaseapp.com/standings",
+   "fetched": "2026-11-23T04:04:45+00:00",
+   "sha256_source": "8cc70b5fc969b354ad4e26d0308ea1d9a7d266f6f210e53b86284d7e987a35a6"
   },
   {
    "contest": "apc-2026",
@@ -1216,6 +1226,16 @@
    "url": "https://icpc.global/regionals/finder/BAPC-2025/standings",
    "fetched": "2026-04-26",
    "sha256_source": "2205df691d609ed26c95168b8cbf19513137ff50ffd5108930d883c1b57a5b4d"
+  },
+  {
+   "contest": "bapc-2024",
+   "artifact": "teams",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/bapc/bapc-2024/teams/20250113-wayback-94b7f858/page.html",
+   "url": "https://2024.bapc.eu/teams",
+   "fetched": "2026-11-22T12:20:03+00:00",
+   "sha256_source": "374e6b1cde0b70ad401053fa02063265a0e6d0b30b776459cc8fb5b50cbee682"
   },
   {
    "contest": "bapc-2025",
@@ -4779,6 +4799,16 @@
   },
   {
    "contest": "kuwait-2025",
+   "artifact": "rankings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/kuwait/kuwait-2025/rankings/20251027-wayback-ebaec9a1/page.html",
+   "url": "https://www.aljarida.com/article/113099",
+   "fetched": "2026-11-22T12:21:24+00:00",
+   "sha256_source": "812ee64e3e49739112bb0b10cabf7b43036e86841a02843d03da7585c1298036"
+  },
+  {
+   "contest": "kuwait-2025",
    "artifact": "standings",
    "shard": 3,
    "repo": "replay-3",
@@ -4829,6 +4859,16 @@
   },
   {
    "contest": "kyrgyzstan-2023",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/kyrgyzstan/kyrgyzstan-2023/scoreboard/20261122-live-bee05cad/page.html",
+   "url": "https://olymp.krsu.kg/conteststandings/15968",
+   "fetched": "2026-11-22T12:49:11+00:00",
+   "sha256_source": "9e39a2637a1b08e8b344c5ffeea55cb8c0fa8501709d6a0a93c9ca04ed3db8be"
+  },
+  {
+   "contest": "kyrgyzstan-2023",
    "artifact": "standings",
    "shard": 3,
    "repo": "replay-3",
@@ -4836,6 +4876,16 @@
    "url": "https://icpc.global/regionals/finder/Kyrgyzstan-Regional-2024/standings",
    "fetched": "2026-04-26",
    "sha256_source": "66132389373255523ab0e1ec3a638261e4edcfdfc7c4f0d01d4d5fe227a57406"
+  },
+  {
+   "contest": "kyrgyzstan-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/kyrgyzstan/kyrgyzstan-2024/standings/20261122-live-5144adaa/page.html",
+   "url": "https://olymp.krsu.edu.kg/conteststandings/16214",
+   "fetched": "2026-11-22T12:49:14+00:00",
+   "sha256_source": "9e39a2637a1b08e8b344c5ffeea55cb8c0fa8501709d6a0a93c9ca04ed3db8be"
   },
   {
    "contest": "kyrgyzstan-2024",
@@ -4866,6 +4916,26 @@
    "url": "https://codeforces.com/gym/106169/standings",
    "fetched": "2026-09-01T14:59:32+00:00",
    "sha256_source": "1614835cb77947767ff7ae6c3032bbce5fd2b67b54f110e6d193db42dccf3532"
+  },
+  {
+   "contest": "kyrgyzstan-2025",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/kyrgyzstan/kyrgyzstan-2025/scoreboard/20261122-live-0de948f3/page.html",
+   "url": "https://olymp.krsu.kg/conteststandings/16406",
+   "fetched": "2026-11-22T12:49:12+00:00",
+   "sha256_source": "9e39a2637a1b08e8b344c5ffeea55cb8c0fa8501709d6a0a93c9ca04ed3db8be"
+  },
+  {
+   "contest": "kyrgyzstan-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/kyrgyzstan/kyrgyzstan-2025/standings/20261122-live-687f241d/page.html",
+   "url": "https://olymp.krsu.edu.kg/conteststandings/16406",
+   "fetched": "2026-11-22T12:49:14+00:00",
+   "sha256_source": "9e39a2637a1b08e8b344c5ffeea55cb8c0fa8501709d6a0a93c9ca04ed3db8be"
   },
   {
    "contest": "kyrgyzstan-2025",
@@ -7359,6 +7429,26 @@
   },
   {
    "contest": "pakistan-2024",
+   "artifact": "rankings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/pakistan/pakistan-2024/rankings/20251005-wayback-41de9e18/ICPC-2024-Onsite-Event-Report.pdf",
+   "url": "https://giki.edu.pk/wp-content/uploads/2025/02/ICPC-2024-Onsite-Event-Report.pdf",
+   "fetched": "2026-11-22T12:21:36+00:00",
+   "sha256_source": "cf3f2dfd6c22842220994210ed89e008b6ed5cb527168564345551975d2cab44"
+  },
+  {
+   "contest": "pakistan-2024",
+   "artifact": "rankings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/pakistan/pakistan-2024/rankings/20261122-live-5a59c42f/ICPC-2024-Onsite-Event-Report.pdf",
+   "url": "https://giki.edu.pk/wp-content/uploads/2025/02/ICPC-2024-Onsite-Event-Report.pdf",
+   "fetched": "2026-11-22T12:21:30+00:00",
+   "sha256_source": "cf3f2dfd6c22842220994210ed89e008b6ed5cb527168564345551975d2cab44"
+  },
+  {
+   "contest": "pakistan-2024",
    "artifact": "standings",
    "shard": 3,
    "repo": "replay-3",
@@ -7366,6 +7456,46 @@
    "url": "https://icpc.global/regionals/finder/Asia-Topi-2025/standings",
    "fetched": "2026-04-26",
    "sha256_source": "da54df7776725949b5a77f3868c6df9460100567d2c237ffcb6e4bcd124a6a25"
+  },
+  {
+   "contest": "pakistan-2025",
+   "artifact": "rankings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/pakistan/pakistan-2025/rankings/20261117-wayback-16a3210e/Event-Report_Regionals-2025.pdf",
+   "url": "https://giki.edu.pk/wp-content/uploads/2026/07/Event-Report_Regionals-2025.pdf",
+   "fetched": "2026-11-22T12:22:16+00:00",
+   "sha256_source": "0be85b54481b4fdef4934725c09fa5d78b4ba89577dd6d796a05785d585b2404"
+  },
+  {
+   "contest": "pakistan-2025",
+   "artifact": "rankings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/pakistan/pakistan-2025/rankings/20261122-live-1dbbb244/Event-Report_Regionals-2025.pdf",
+   "url": "https://giki.edu.pk/wp-content/uploads/2026/07/Event-Report_Regionals-2025.pdf",
+   "fetched": "2026-11-22T12:21:47+00:00",
+   "sha256_source": "078b9ee17456b704697f75d713a0db9b5300ca19c48c4e902aaf386d7066ff0e"
+  },
+  {
+   "contest": "pakistan-2025",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/pakistan/pakistan-2025/scoreboard/20260718-wayback-45a3020a/Scoreboard-ICPC-Onsite-2025-DOMjudge.pdf",
+   "url": "https://giki.edu.pk/wp-content/uploads/2026/02/Scoreboard-ICPC-Onsite-2025-DOMjudge.pdf",
+   "fetched": "2026-11-22T12:21:50+00:00",
+   "sha256_source": "dfc9d2552aa6b3593c8e7618fe465286391ddb05e21ed58a3dd32749d4a399a5"
+  },
+  {
+   "contest": "pakistan-2025",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/pakistan/pakistan-2025/scoreboard/20261122-live-69fd5767/Scoreboard-ICPC-Onsite-2025-DOMjudge.pdf",
+   "url": "https://giki.edu.pk/wp-content/uploads/2026/02/Scoreboard-ICPC-Onsite-2025-DOMjudge.pdf",
+   "fetched": "2026-11-22T12:21:45+00:00",
+   "sha256_source": "dfc9d2552aa6b3593c8e7618fe465286391ddb05e21ed58a3dd32749d4a399a5"
   },
   {
    "contest": "pakistan-2025",
@@ -7786,6 +7916,16 @@
    "url": "https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vQBUEgqUDyC2mCG_iqpQys46Ueio_UObJwYsyyDc6ivnLHY29jxnxGV7tQZf1QIufYbHWKO56VMetsT/pubhtml/sheet?headers=false&gid=116684220",
    "fetched": "2026-09-01T08:19:33+00:00",
    "sha256_source": "d740723dc22c38a0210dfea2c3d8a9417fb0368afcab8bb6ac9d0a6b0405b3d9"
+  },
+  {
+   "contest": "romania-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/romania/romania-2024/standings/20261122-live-5077f783/page.html",
+   "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQBUEgqUDyC2mCG_iqpQys46Ueio_UObJwYsyyDc6ivnLHY29jxnxGV7tQZf1QIufYbHWKO56VMetsT/pubhtml?urp=gmail_link",
+   "fetched": "2026-11-23T04:04:45+00:00",
+   "sha256_source": "269773fd8c2e81efdf92c39cf094ae0ae9900faf1f286b3ea7ef0b4f86383171"
   },
   {
    "contest": "romania-2025",
@@ -9432,6 +9572,16 @@
    "artifact": "scoreboard",
    "shard": 3,
    "repo": "replay-3",
+   "path": "a/taiwan/taiwan-2023/scoreboard/20240722-wayback-a867d0d9/page.html",
+   "url": "https://icpc2023.ntub.edu.tw/?page_id=267",
+   "fetched": "2026-11-22T12:23:50+00:00",
+   "sha256_source": "848c9c4879123cac9eb03595852e17f87be5444f9aa9e8307a719d95883ac8c4"
+  },
+  {
+   "contest": "taiwan-2023",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
    "path": "a/taiwan/taiwan-2023/scoreboard/20240723-wayback-1728c5ba/page.html",
    "url": "https://inc-s3.ntub.edu.tw/share-files/icpc2023-scoreboard-final.jpeg",
    "fetched": "2026-09-01T16:57:06+00:00",
@@ -9546,6 +9696,16 @@
    "url": "https://icpc.global/regionals/finder/TjRC-2025/standings",
    "fetched": "2026-04-26",
    "sha256_source": "111eab9dfdd9f8cfa04394d5a68eb0ec84d00fa0f9f69e70aa0744031489dfe6"
+  },
+  {
+   "contest": "tajikistan-2025",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/tajikistan/tajikistan-2025/scoreboard/20261122-live-7349fc92/page.html",
+   "url": "https://nerc.itmo.ru/archive/2025/tajikistan/standings.xml",
+   "fetched": "2026-11-22T12:23:51+00:00",
+   "sha256_source": "0b701c095daddfba6d43227dd743f7d2bce7037bfecb31a9c07dd0f67f88a9bf"
   },
   {
    "contest": "tajikistan-2025",
