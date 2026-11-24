@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T03:39:36+00:00",
+ "generated": "2026-11-24T04:34:46+00:00",
  "shard": 3,
  "shards": {
   "1": "replay",
@@ -2595,7 +2595,8 @@
    "path": "a/chennai/chennai-2025/external-standings/2026-04-15-external/content.pdf",
    "url": "https://icpc-iiitdm.vercel.app/Icpc%202025/ICPC%20Chennai%20Onsite%202025-%20Final%20Ranklist.pdf",
    "fetched": "2026-04-15T07:38:28Z",
-   "sha256_source": "5d2c3ac58455d6d9782681632de70a303e790ffec225ee7cebbf5c2c11d466f8"
+   "sha256_source": "5d2c3ac58455d6d9782681632de70a303e790ffec225ee7cebbf5c2c11d466f8",
+   "at": "a/chengdu/chengdu-2025/standings/2026-09-01-live-3ea8bdc5/page.pdf"
   },
   {
    "contest": "chennai-2025",
@@ -2605,7 +2606,8 @@
    "path": "a/chennai/chennai-2025/scoreboard/20260901-live-982529f3/page.pdf",
    "url": "https://icpc-iiitdm.vercel.app/Icpc%202025/ICPC%20Chennai%20Onsite%202025-%20Final%20Ranklist.pdf",
    "fetched": "2026-09-01T14:00:59+00:00",
-   "sha256_source": "5d2c3ac58455d6d9782681632de70a303e790ffec225ee7cebbf5c2c11d466f8"
+   "sha256_source": "5d2c3ac58455d6d9782681632de70a303e790ffec225ee7cebbf5c2c11d466f8",
+   "at": "a/chengdu/chengdu-2025/standings/2026-09-01-live-3ea8bdc5/page.pdf"
   },
   {
    "contest": "colombia-maraton-2023",
@@ -4275,7 +4277,8 @@
    "path": "a/hong-kong/hong-kong-2024/teams/20261116-live-ad3f1347/accepted.pdf",
    "url": "https://icpc2024.comp.polyu.edu.hk/resources/files/accepted.pdf",
    "fetched": "2026-11-16T16:16:55+00:00",
-   "sha256_source": "42936a1f694a1b2c6a0791149058e96146aaaa3d5346acfbc9089422a46bda5a"
+   "sha256_source": "42936a1f694a1b2c6a0791149058e96146aaaa3d5346acfbc9089422a46bda5a",
+   "at": "a/hong-kong/hong-kong-2024/teams/20250604-wayback-b6c62fbb/accepted.pdf"
   },
   {
    "contest": "hong-kong-2025",
@@ -5325,7 +5328,8 @@
    "path": "a/kuwait/kuwait-2026/rankings/20261116-live-0582fd10/07.pdf",
    "url": "https://pdf.alanba.com.kw/pdf/2026/10/29-10-2026/07.pdf",
    "fetched": "2026-11-16T19:11:10+00:00",
-   "sha256_source": "ce1b007e0b3500e2911d3bd9ac3a2848278dbfecce6a302969ea3f9572816385"
+   "sha256_source": "ce1b007e0b3500e2911d3bd9ac3a2848278dbfecce6a302969ea3f9572816385",
+   "at": "a/kuwait/kuwait-2026/rankings/20261029-wayback-1f219933/07.pdf"
   },
   {
    "contest": "kuwait-2026",
@@ -6325,7 +6329,8 @@
    "path": "a/nac/nac-2023/scoreboard/2026-09-01-live-8e7e80cd/NAC23-scoreboard.pdf",
    "url": "https://nac.icpc.global/wp-content/uploads/2023/06/NAC23-scoreboard.pdf",
    "fetched": "2026-09-01T08:10:46+00:00",
-   "sha256_source": "6f878600fcaee33501d01f0866e191992e70c8c05002e40c7c6b4f6361f9f04a"
+   "sha256_source": "6f878600fcaee33501d01f0866e191992e70c8c05002e40c7c6b4f6361f9f04a",
+   "at": "a/nac/nac-2023/scoreboard/20231111-wayback-a2ac5e9f/NAC23-scoreboard.pdf"
   },
   {
    "contest": "nac-2023",
@@ -8135,7 +8140,8 @@
    "path": "a/pakistan/pakistan-2024/rankings/20261122-live-5a59c42f/ICPC-2024-Onsite-Event-Report.pdf",
    "url": "https://giki.edu.pk/wp-content/uploads/2025/02/ICPC-2024-Onsite-Event-Report.pdf",
    "fetched": "2026-11-22T12:21:30+00:00",
-   "sha256_source": "cf3f2dfd6c22842220994210ed89e008b6ed5cb527168564345551975d2cab44"
+   "sha256_source": "cf3f2dfd6c22842220994210ed89e008b6ed5cb527168564345551975d2cab44",
+   "at": "a/pakistan/pakistan-2024/rankings/20251005-wayback-41de9e18/ICPC-2024-Onsite-Event-Report.pdf"
   },
   {
    "contest": "pakistan-2024",
@@ -8185,7 +8191,8 @@
    "path": "a/pakistan/pakistan-2025/scoreboard/20261122-live-69fd5767/Scoreboard-ICPC-Onsite-2025-DOMjudge.pdf",
    "url": "https://giki.edu.pk/wp-content/uploads/2026/02/Scoreboard-ICPC-Onsite-2025-DOMjudge.pdf",
    "fetched": "2026-11-22T12:21:45+00:00",
-   "sha256_source": "dfc9d2552aa6b3593c8e7618fe465286391ddb05e21ed58a3dd32749d4a399a5"
+   "sha256_source": "dfc9d2552aa6b3593c8e7618fe465286391ddb05e21ed58a3dd32749d4a399a5",
+   "at": "a/pakistan/pakistan-2025/scoreboard/20260718-wayback-45a3020a/Scoreboard-ICPC-Onsite-2025-DOMjudge.pdf"
   },
   {
    "contest": "pakistan-2025",
