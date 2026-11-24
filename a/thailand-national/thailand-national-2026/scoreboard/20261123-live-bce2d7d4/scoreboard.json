@@ -1,0 +1,6616 @@
+{
+  "updated": "2026-09-06T12:03:51Z",
+  "frozen": false,
+  "started": true,
+  "finalized": true,
+  "time": "2026-09-06T17:59:45.257+07:00",
+  "contest": {
+    "name": "ICPC Thailand National Contest 2026",
+    "start": "2026-09-06T09:35:00+07:00",
+    "duration": "5:00:00.000",
+    "freeze": "1:00:00.000"
+  },
+  "problems": [
+    {
+      "id": "A-array-merge-AAINNE",
+      "label": "A",
+      "name": "Tuna for Salmon",
+      "color": "#d2dfe5"
+    },
+    {
+      "id": "B-verify-shortest-path-metric-WRLBWF",
+      "label": "B",
+      "name": "Verify Shortest Path Metric",
+      "color": "#908e86"
+    },
+    {
+      "id": "C-unxi-timestamp-ZFANVM",
+      "label": "C",
+      "name": "Chronocapsule",
+      "color": "#0f2063"
+    },
+    {
+      "id": "D-spiral-count-LBPNBE",
+      "label": "D",
+      "name": "DEINOS PHAINEIN",
+      "color": "#e47300"
+    },
+    {
+      "id": "E-selection-BLTYRA",
+      "label": "E",
+      "name": "Selection",
+      "color": "#00813d"
+    },
+    {
+      "id": "F-circle-of-truth-FRKOVM",
+      "label": "F",
+      "name": "Circle of Truth",
+      "color": "#c5171e"
+    },
+    {
+      "id": "G-citybuilding-EAEEHH",
+      "label": "G",
+      "name": "City Building",
+      "color": "#c3c000"
+    },
+    {
+      "id": "H-poison-cups-OWGFJH",
+      "label": "H",
+      "name": "Mystery of the Poisoned Soup",
+      "color": "#88bf00"
+    },
+    {
+      "id": "I-piggyback-race-UVZSKG",
+      "label": "I",
+      "name": "Piggyback Race",
+      "color": "#0052ca"
+    },
+    {
+      "id": "J-carrot-gardens-HBRDRI",
+      "label": "J",
+      "name": "Carrot Gardens",
+      "color": "#6d9bc7"
+    },
+    {
+      "id": "K-corridor-booking-FFGEEG",
+      "label": "K",
+      "name": "KoP",
+      "color": "#da88a9"
+    },
+    {
+      "id": "L-branch-hopper-FCWOXK",
+      "label": "L",
+      "name": "Branch Hopper",
+      "color": "#7d2a05"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "team_id": "icpc-29",
+      "name": "Proof by AC",
+      "org": "Chulalongkorn University",
+      "logo": "cu",
+      "solved": 12,
+      "time": 1177,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": true,
+          "time": 3
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": true,
+          "time": 8
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 172
+        },
+        {
+          "label": "D",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": true,
+          "time": 71
+        },
+        {
+          "label": "E",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": true,
+          "time": 155
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": 168
+        },
+        {
+          "label": "G",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": true,
+          "time": 126
+        },
+        {
+          "label": "H",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": true,
+          "time": 82
+        },
+        {
+          "label": "I",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": true,
+          "time": 110
+        },
+        {
+          "label": "J",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": true,
+          "time": 22
+        },
+        {
+          "label": "K",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": true,
+          "time": 52
+        },
+        {
+          "label": "L",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": true,
+          "time": 48
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "team_id": "icpc-41",
+      "name": "AnyaSpyAC",
+      "org": "Chiang Mai University",
+      "logo": "cmu",
+      "solved": 7,
+      "time": 807,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 9
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 37
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 13
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": 39
+        },
+        {
+          "label": "G",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 246
+        },
+        {
+          "label": "H",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": 161
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": 142
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "team_id": "icpc-23",
+      "name": "How did we get here",
+      "org": "Chulalongkorn University",
+      "logo": "cu",
+      "solved": 6,
+      "time": 842,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 29
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 42
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 47
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": 130
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": true,
+          "num_judged": 10,
+          "pending": 0,
+          "first": false,
+          "time": 261
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 93
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "team_id": "icpc-24",
+      "name": "LunarCroissant",
+      "org": "Chulalongkorn University",
+      "logo": "cu",
+      "solved": 6,
+      "time": 860,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 30
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": 34
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": true,
+          "time": 6
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": 124
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": true,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": 160
+        },
+        {
+          "label": "K",
+          "solved": true,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": 206
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 29,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "team_id": "icpc-17",
+      "name": "Ggwp",
+      "org": "Chulalongkorn University",
+      "logo": "cu",
+      "solved": 5,
+      "time": 518,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 94
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 14
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 21
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": 197
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 112
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "team_id": "icpc-30",
+      "name": "CMKL Knickers",
+      "org": "CMKL University",
+      "logo": "cmkl",
+      "solved": 5,
+      "time": 541,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 28
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": 33
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 7
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 97
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": true,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": 236
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "team_id": "icpc-21",
+      "name": "CunKieRook",
+      "org": "Thammasat University Rangsit Cen",
+      "logo": "tu",
+      "solved": 5,
+      "time": 603,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 98
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 78
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 59
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 8,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 140
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 228
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "team_id": "icpc-16",
+      "name": "0x4B 0x55",
+      "org": "Chulalongkorn University",
+      "logo": "cu",
+      "solved": 5,
+      "time": 647,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 33
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": 90
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 10
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 99
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 11,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 295
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 20,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "team_id": "icpc-40",
+      "name": "TaoLeed",
+      "org": "Chiang Mai University",
+      "logo": "cmu",
+      "solved": 5,
+      "time": 792,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 132
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": 60
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 27
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 147
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 11,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": true,
+          "num_judged": 7,
+          "pending": 0,
+          "first": false,
+          "time": 206
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "team_id": "icpc-14",
+      "name": "Yutthahatthi",
+      "org": "Chulalongkorn University",
+      "logo": "cu",
+      "solved": 5,
+      "time": 803,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": 59
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": 76
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 26
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 94
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": true,
+          "num_judged": 7,
+          "pending": 0,
+          "first": false,
+          "time": 288
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "team_id": "icpc-18",
+      "name": "I want to have BF",
+      "org": "Chulalongkorn University",
+      "logo": "cu",
+      "solved": 4,
+      "time": 282,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 41
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 62
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 6
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 133
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "team_id": "icpc-28",
+      "name": "I cant impl segment tree",
+      "org": "Kasetsart University Bangkhen",
+      "logo": "ku",
+      "solved": 4,
+      "time": 469,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": 130
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": 27
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 28
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 184
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "team_id": "icpc-27",
+      "name": "Trust me just pray",
+      "org": "Kasetsart University Bangkhen",
+      "logo": "ku",
+      "solved": 4,
+      "time": 486,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 153
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": 91
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 22
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 160
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "team_id": "icpc-22",
+      "name": "Me and the boys",
+      "org": "King Mongkut's Institute of Tech",
+      "logo": "kmitl",
+      "solved": 4,
+      "time": 535,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 12
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": 53
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 13
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 7,
+          "pending": 0,
+          "first": false,
+          "time": 297
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "team_id": "icpc-20",
+      "name": "T2K",
+      "org": "Kasetsart University Bangkhen",
+      "logo": "ku",
+      "solved": 4,
+      "time": 725,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": 142
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": 176
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 76
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": 151
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "team_id": "icpc-33",
+      "name": "ma wong ma wods arai a",
+      "org": "King Mongkut's Institute of Tech",
+      "logo": "kmitl",
+      "solved": 4,
+      "time": 760,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 16
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 13,
+          "pending": 0,
+          "first": false,
+          "time": 210
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 13
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": 201
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "icpc-38",
+      "name": "cout-What1s",
+      "org": "Chiang Mai University",
+      "logo": "cmu",
+      "solved": 4,
+      "time": 919,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 64
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": 90
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 245
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": true,
+          "num_judged": 10,
+          "pending": 0,
+          "first": false,
+          "time": 280
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "team_id": "icpc-32",
+      "name": "3Piggies",
+      "org": "Chulalongkorn University",
+      "logo": "cu",
+      "solved": 3,
+      "time": 127,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 16
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 18,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 9
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 102
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "team_id": "icpc-11",
+      "name": "CSTUTEAM2",
+      "org": "Thammasat University Rangsit Cen",
+      "logo": "tu",
+      "solved": 3,
+      "time": 217,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 64
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 97
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": true,
+          "time": 36
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "team_id": "icpc-58",
+      "name": "Cyberpsychosis",
+      "org": "Prince of Songkla University",
+      "logo": "psu",
+      "solved": 3,
+      "time": 297,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 27
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 8,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 74
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 176
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "team_id": "icpc-15",
+      "name": "ICookPanCake",
+      "org": "Chulalongkorn University",
+      "logo": "cu",
+      "solved": 3,
+      "time": 302,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 24
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 25
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": 213
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "team_id": "icpc-42",
+      "name": "60_FPS",
+      "org": "Chiang Mai University",
+      "logo": "cmu",
+      "solved": 3,
+      "time": 353,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 65
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 18
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": 190
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "team_id": "icpc-34",
+      "name": "Kuha",
+      "org": "Chulalongkorn University",
+      "logo": "cu",
+      "solved": 3,
+      "time": 474,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 38
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 16
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 8,
+          "pending": 0,
+          "first": false,
+          "time": 280
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "team_id": "icpc-53",
+      "name": "#include<goodmorning>",
+      "org": "Kasetsart University Si Racha Ca",
+      "logo": "ku-src",
+      "solved": 3,
+      "time": 496,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 160
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 18,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 36
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 280
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "team_id": "icpc-6",
+      "name": "No Sock Kissing",
+      "org": "Khon Kaen University",
+      "logo": "kku",
+      "solved": 3,
+      "time": 541,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": 213
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 18
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 230
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 8,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "team_id": "icpc-26",
+      "name": "Freebies",
+      "org": "Kasetsart University Bangkhen",
+      "logo": "ku",
+      "solved": 3,
+      "time": 657,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 106
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": 63
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": true,
+          "num_judged": 9,
+          "pending": 0,
+          "first": false,
+          "time": 288
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "icpc-25",
+      "name": "LingLeast",
+      "org": "King Mongkut's Institute of Tech",
+      "logo": "kmitl",
+      "solved": 2,
+      "time": 82,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 46
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 36
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "team_id": "icpc-12",
+      "name": "NSX",
+      "org": "Mahidol University",
+      "logo": "mu",
+      "solved": 2,
+      "time": 91,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 79
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 12
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "team_id": "icpc-31",
+      "name": "Std",
+      "org": "Chulalongkorn University",
+      "logo": "cu",
+      "solved": 2,
+      "time": 93,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 60
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 33
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "team_id": "icpc-2",
+      "name": "MonKai",
+      "org": "Mahasarakham University",
+      "logo": "msu",
+      "solved": 2,
+      "time": 99,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 57
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 42
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "team_id": "icpc-56",
+      "name": "LOB-PAI-NONGBAO",
+      "org": "Prince of Songkla University",
+      "logo": "psu",
+      "solved": 2,
+      "time": 140,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 102
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 38
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 8,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "team_id": "icpc-19",
+      "name": "It worked on my machine",
+      "org": "Kasetsart University Bangkhen",
+      "logo": "ku",
+      "solved": 2,
+      "time": 161,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 137
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 24
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "team_id": "icpc-43",
+      "name": "SenSevix",
+      "org": "Chiang Mai University",
+      "logo": "cmu",
+      "solved": 2,
+      "time": 202,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 163
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 39
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "team_id": "icpc-10",
+      "name": "CSTUTEAM4",
+      "org": "Thammasat University Rangsit Cen",
+      "logo": "tu",
+      "solved": 2,
+      "time": 210,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 152
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 58
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "team_id": "icpc-36",
+      "name": "BBC BIG BLACK CODE",
+      "org": "Chiang Mai University",
+      "logo": "cmu",
+      "solved": 2,
+      "time": 214,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 161
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 346,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 53
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 7,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "team_id": "icpc-55",
+      "name": "include105",
+      "org": "Prince of Songkla University",
+      "logo": "psu",
+      "solved": 2,
+      "time": 227,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 161
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 66
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "team_id": "icpc-35",
+      "name": "ONo",
+      "org": "Chiang Mai University",
+      "logo": "cmu",
+      "solved": 2,
+      "time": 247,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 117
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 110
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "team_id": "icpc-50",
+      "name": "Eatsomewhere",
+      "org": "Kasetsart University Si Racha Ca",
+      "logo": "ku-src",
+      "solved": 2,
+      "time": 258,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 206
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 32
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "team_id": "icpc-44",
+      "name": "Kha moo",
+      "org": "Kasetsart University Si Racha Ca",
+      "logo": "ku-src",
+      "solved": 2,
+      "time": 264,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 196
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 68
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "team_id": "icpc-39",
+      "name": "TechJournal",
+      "org": "Chiang Mai University",
+      "logo": "cmu",
+      "solved": 2,
+      "time": 266,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": 134
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 72
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "team_id": "icpc-48",
+      "name": "Jidrid",
+      "org": "Kasetsart University Si Racha Ca",
+      "logo": "ku-src",
+      "solved": 2,
+      "time": 422,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 289
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 113
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "team_id": "icpc-9",
+      "name": "sonetmancer",
+      "org": "Khon Kaen University",
+      "logo": "kku",
+      "solved": 1,
+      "time": 17,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 17
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "team_id": "icpc-13",
+      "name": "Hold Your Horse",
+      "org": "Mahidol University",
+      "logo": "mu",
+      "solved": 1,
+      "time": 20,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 20
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "team_id": "icpc-45",
+      "name": "Ae Sung Rui",
+      "org": "Rambhai Barni Rajabhat Universit",
+      "logo": "rbru",
+      "solved": 1,
+      "time": 28,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 28
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 7,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "team_id": "icpc-8",
+      "name": "kaoradkang",
+      "org": "Khon Kaen University",
+      "logo": "kku",
+      "solved": 1,
+      "time": 31,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 31
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "team_id": "icpc-5",
+      "name": "JumBa",
+      "org": "Khon Kaen University",
+      "logo": "kku",
+      "solved": 1,
+      "time": 34,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 9,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 34
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 7,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 7,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 7,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 6,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 7,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 67,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "team_id": "icpc-1",
+      "name": "SamGour",
+      "org": "Udon Thani Rajabhat University",
+      "logo": "utru",
+      "solved": 1,
+      "time": 53,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 53
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "team_id": "icpc-57",
+      "name": "105DotDev",
+      "org": "Prince of Songkla University",
+      "logo": "psu",
+      "solved": 1,
+      "time": 57,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 57
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 4,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "team_id": "icpc-59",
+      "name": "Crossword Puzzle",
+      "org": "Prince of Songkla University",
+      "logo": "psu",
+      "solved": 1,
+      "time": 58,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 15,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 58
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "team_id": "icpc-7",
+      "name": "MaKinKao",
+      "org": "Khon Kaen University",
+      "logo": "kku",
+      "solved": 1,
+      "time": 62,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 62
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "team_id": "icpc-52",
+      "name": "Fractsidus",
+      "org": "Kasetsart University Si Racha Ca",
+      "logo": "ku-src",
+      "solved": 1,
+      "time": 63,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 63
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 8,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "team_id": "icpc-4",
+      "name": "APT",
+      "org": "Khon Kaen University",
+      "logo": "kku",
+      "solved": 1,
+      "time": 78,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 78
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "team_id": "icpc-46",
+      "name": "DFS - Do not Find Solution",
+      "org": "Rambhai Barni Rajabhat Universit",
+      "logo": "rbru",
+      "solved": 1,
+      "time": 94,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 94
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "team_id": "icpc-47",
+      "name": "Ppp",
+      "org": "Kasetsart University Si Racha Ca",
+      "logo": "ku-src",
+      "solved": 1,
+      "time": 96,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 8,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 96
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "team_id": "icpc-54",
+      "name": "Claude-solve-this-pls",
+      "org": "Prince of Songkla University",
+      "logo": "psu",
+      "solved": 1,
+      "time": 110,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 110
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 7,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 56,
+      "team_id": "icpc-49",
+      "name": "BPJ",
+      "org": "Kasetsart University Si Racha Ca",
+      "logo": "ku-src",
+      "solved": 1,
+      "time": 137,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 137
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 57,
+      "team_id": "icpc-51",
+      "name": "Six seven",
+      "org": "Kasetsart University Si Racha Ca",
+      "logo": "ku-src",
+      "solved": 1,
+      "time": 145,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 7,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 3,
+          "pending": 0,
+          "first": false,
+          "time": 105
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 58,
+      "team_id": "icpc-37",
+      "name": "Rofi CSICTUP",
+      "org": "University of Phayao",
+      "logo": "up",
+      "solved": 1,
+      "time": 265,
+      "problems": [
+        {
+          "label": "A",
+          "solved": true,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": 265
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": false,
+          "num_judged": 5,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 59,
+      "team_id": "icpc-60",
+      "name": "JMC",
+      "org": "Songkhla Rajabhat University",
+      "logo": "sru",
+      "solved": 1,
+      "time": 296,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": true,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": 276
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "team_id": "icpc-61",
+      "name": "CS-SixSeven",
+      "org": "Songkhla Rajabhat University",
+      "logo": "sru",
+      "solved": 0,
+      "time": 0,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": false,
+          "num_judged": 2,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    },
+    {
+      "rank": 60,
+      "team_id": "icpc-3",
+      "name": "KiNKAOMAiI",
+      "org": "Mahasarakham University",
+      "logo": "msu",
+      "solved": 0,
+      "time": 0,
+      "problems": [
+        {
+          "label": "A",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "B",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "C",
+          "solved": false,
+          "num_judged": 9,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "D",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "E",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "F",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "G",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "H",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "I",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "J",
+          "solved": false,
+          "num_judged": 1,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "K",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        },
+        {
+          "label": "L",
+          "solved": false,
+          "num_judged": 0,
+          "pending": 0,
+          "first": false,
+          "time": null
+        }
+      ]
+    }
+  ]
+}

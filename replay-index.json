@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T04:38:12+00:00",
+ "generated": "2026-11-24T03:39:36+00:00",
  "shard": 3,
  "shards": {
   "1": "replay",
@@ -48,6 +48,26 @@
    "sha256_source": "9db7ce3b5004f97ee548bcf0c695316a253240cd5a188b6291602c8683128079"
   },
   {
+   "contest": "acpc-2024",
+   "artifact": "teams",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/acpc/acpc-2024/teams/20241107-wayback-b413803c/page.html",
+   "url": "https://codeforces.com/blog/entry/135324",
+   "fetched": "2026-11-23T13:24:32+00:00",
+   "sha256_source": "b3b675b644a6790894ba2ba45d365ff550ce6cb770af91a03f687cac9fc36cb3"
+  },
+  {
+   "contest": "acpc-2024",
+   "artifact": "teams",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/acpc/acpc-2024/teams/20261123-live-4baed207/page.html",
+   "url": "https://codeforces.com/blog/entry/135324",
+   "fetched": "2026-11-23T13:24:21+00:00",
+   "sha256_source": "dd3a4b953d22d005bef82fee8549978961bf2536aa8ebb2741ec2154693d32b5"
+  },
+  {
    "contest": "acpc-2025",
    "artifact": "standings",
    "shard": 3,
@@ -56,6 +76,26 @@
    "url": "https://icpc.global/regionals/finder/ACPC-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "7b93aede2124f60a0ac0e6816860bdf47987ac245dd69956c3df4d92527d2427"
+  },
+  {
+   "contest": "acpc-2025",
+   "artifact": "teams",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/acpc/acpc-2025/teams/20250812-wayback-1b472603/page.html",
+   "url": "https://codeforces.com/blog/entry/145458",
+   "fetched": "2026-11-23T13:25:17+00:00",
+   "sha256_source": "59320327c80ad1dfa246fb9dbe8ed97df55f4251f0807828e75ec82a900e76b4"
+  },
+  {
+   "contest": "acpc-2025",
+   "artifact": "teams",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/acpc/acpc-2025/teams/20261123-live-9a8859cf/page.html",
+   "url": "https://codeforces.com/blog/entry/145458",
+   "fetched": "2026-11-23T13:25:06+00:00",
+   "sha256_source": "354a05b63e4d300dcd6686c798812b3bdf726e8c306d788e6f3c49e9ad606f32"
   },
   {
    "contest": "aec-2023",
@@ -86,6 +126,16 @@
    "url": "https://icpc.global/regionals/finder/Xian-2025/standings",
    "fetched": "2026-04-26",
    "sha256_source": "73b2169c894c5c95b271217b8d7f65186a0fbe75b7534075d445361d482603e8"
+  },
+  {
+   "contest": "aec-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/aec/aec-2025/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Asia-East-Continent-Final-2026/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "94a5787ae4c6a10a691229ab2913daf6d6030d6397cf6ab6d829bfbbada52e54"
   },
   {
    "contest": "alberta-2023",
@@ -188,6 +238,26 @@
    "sha256_source": "2a16ed33b1636dc2aafe227cf1cf3b028500fef843ad5637d9d9fdf2d9c01862"
   },
   {
+   "contest": "alberta-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/alberta/alberta-2026/scoreboard/20261123-live-067a914b/page.html",
+   "url": "https://acpc26.kattis.com/contests/acpc26/standings",
+   "fetched": "2026-11-23T13:22:07+00:00",
+   "sha256_source": "5ef6fbeacc6e9e6863b225bdc2c477a331c0532bbe24e33b790357d4b5a1954d"
+  },
+  {
+   "contest": "alberta-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/alberta/alberta-2026/scoreboard/20261123-live-8651a6bd/page.html",
+   "url": "https://acpc26.kattis.com/contests/bas9dt/standings",
+   "fetched": "2026-11-23T13:22:11+00:00",
+   "sha256_source": "69a794d5706e36fab86fc6b4f7f5943fa1d2cd56b425893f9e41d1671476b6cc"
+  },
+  {
    "contest": "algeria-2023",
    "artifact": "frozen_scoreboard",
    "shard": 3,
@@ -256,6 +326,16 @@
    "url": "https://amritaicpc.in/archive/icpc_Amritapuri_2025/onsite-winners",
    "fetched": "2026-11-16T05:46:38+00:00",
    "sha256_source": "284914a0eea3ab8dc963db8aaafc26e0c9cadfe43d00d6ae2a4a7e0d34f9290d"
+  },
+  {
+   "contest": "amritapuri-2025",
+   "artifact": "rankings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/amritapuri/amritapuri-2025/rankings/20261123-live-e4122688/page.html",
+   "url": "https://amritaicpc.in/archive/icpc_Amritapuri_2025/halloffame",
+   "fetched": "2026-11-23T13:22:27+00:00",
+   "sha256_source": "e707f86da0f92d8887e065fd56e02fc7bcbfa4ae2a369f82311802c5e676a5f4"
   },
   {
    "contest": "amritapuri-2025",
@@ -628,6 +708,26 @@
    "sha256_source": "73d6f3a106d1a8917f959d742f8d166bba6c1f2168bd411ab0f22f4f6fb48ed6"
   },
   {
+   "contest": "armenia-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/armenia/armenia-2026/scoreboard/20261117-wayback-e0e1b39d/standings.html",
+   "url": "https://nerc.itmo.ru/archive/2026/armenia/standings.html",
+   "fetched": "2026-11-23T13:22:22+00:00",
+   "sha256_source": "73d6f3a106d1a8917f959d742f8d166bba6c1f2168bd411ab0f22f4f6fb48ed6"
+  },
+  {
+   "contest": "armenia-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/armenia/armenia-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Armenia-Regional-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "754e8078b069f2aa8cfe6eda9b8ca2fa11e7e2ee3665d038c6301a59973ad57f"
+  },
+  {
    "contest": "awc-2023",
    "artifact": "external-standings",
    "shard": 3,
@@ -956,6 +1056,16 @@
    "url": "https://icpc.global/regionals/finder/Azerbaijan-Regional-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "2e6b5240fc2bfabb885c69de6fb6a46442455305c11718cec89e0d03fb4afc81"
+  },
+  {
+   "contest": "azerbaijan-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/azerbaijan/azerbaijan-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Azerbaijan-Regional-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "5ea98d251247b40d99d876eef45ab659d359e6f252e0ac94de5f66a19374c226"
   },
   {
    "contest": "bapc-prelims-2023",
@@ -1359,6 +1469,36 @@
   },
   {
    "contest": "bolivia-national-2023",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/bolivia-national/bolivia-national-2023/scoreboard/20231208-wayback-a460994e/page.html",
+   "url": "https://scorelatam.naquadah.com.br/subbr-2023/",
+   "fetched": "2026-11-23T13:22:07+00:00",
+   "sha256_source": "6bb6177d52a59a3a7d7f3ebd7738466fa90281ba3a434085d636f4d097a24340"
+  },
+  {
+   "contest": "bolivia-national-2023",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/bolivia-national/bolivia-national-2023/scoreboard/20261123-live-5d58b438/page.html",
+   "url": "https://scorelatam.naquadah.com.br/subbr-2023/",
+   "fetched": "2026-11-23T13:21:28+00:00",
+   "sha256_source": "1de395d95d21192a72a9d9865e09644db62f4a81dc26269b3266851580a894de"
+  },
+  {
+   "contest": "bolivia-national-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/bolivia-national/bolivia-national-2023/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Bolivia-Preliminary-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "78877cb98f2ee229d42e4bf26edee214e02d5defe9406cfefbade8681879dcc0"
+  },
+  {
+   "contest": "bolivia-national-2023",
    "artifact": "web-mirror",
    "shard": 3,
    "repo": "replay-3",
@@ -1408,6 +1548,36 @@
    "sha256_source": "b546b39a6ed995dc080cf142bde3e8f526ff641034983092a895d52c71db7a29"
   },
   {
+   "contest": "bolivia-national-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/bolivia-national/bolivia-national-2024/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Bolivia-Preliminary-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "9f6bc3e4f94400906dfc597f39f497fe03eeed81c6622f9a089d1253340e9af8"
+  },
+  {
+   "contest": "bolivia-national-2025",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/bolivia-national/bolivia-national-2025/scoreboard/20250916-wayback-79742d19/page.html",
+   "url": "https://scorelatam.naquadah.com.br/subbr-2025/",
+   "fetched": "2026-11-23T13:22:08+00:00",
+   "sha256_source": "7590a9346c985ffb515504f862c83d90218fbdc0cf960e63b6a2515ccbbb1685"
+  },
+  {
+   "contest": "bolivia-national-2025",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/bolivia-national/bolivia-national-2025/scoreboard/20261123-live-50bb49c3/page.html",
+   "url": "https://scorelatam.naquadah.com.br/subbr-2025/",
+   "fetched": "2026-11-23T13:21:29+00:00",
+   "sha256_source": "82b9d55622d087a88457a796b208ebe3f2b47a5d8d124694262d2598059f446d"
+  },
+  {
    "contest": "bolivia-national-2025",
    "artifact": "web-mirror",
    "shard": 3,
@@ -1416,6 +1586,56 @@
    "url": "https://icpcbolivia.org/",
    "fetched": "2026-09-07T19:19:29+00:00",
    "sha256_source": "208a4b9553896c02c80f9f9331022c611f6006ce3256800db35e546b80d7ce32"
+  },
+  {
+   "contest": "bolivia-national-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/bolivia-national/bolivia-national-2026/scoreboard/20261108-wayback-b3d50c68/page.html",
+   "url": "https://scorelatam.naquadah.com.br/subbr-2026/",
+   "fetched": "2026-11-23T13:22:10+00:00",
+   "sha256_source": "d5344b0adc95f34ad19ea143625f44a4f000be489b4d7fc399ea3c2eec5ab24a"
+  },
+  {
+   "contest": "bolivia-national-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/bolivia-national/bolivia-national-2026/scoreboard/20261123-live-31809790/page.html",
+   "url": "https://icpcbolivia.org/competencias/2026-fase-1/resultados/",
+   "fetched": "2026-11-23T13:22:32+00:00",
+   "sha256_source": "c203f0ae26d3265585060237bc404e046056b23a3d1b1321934ff46a97aef290"
+  },
+  {
+   "contest": "bolivia-national-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/bolivia-national/bolivia-national-2026/scoreboard/20261123-live-6dfb021d/page.html",
+   "url": "https://scorelatam.naquadah.com.br/subbr-2026/",
+   "fetched": "2026-11-23T13:21:38+00:00",
+   "sha256_source": "9b39c2304828c6493a98460c361c1c8d7401dbf4d4db4e60c36d6e9253c62433"
+  },
+  {
+   "contest": "bolivia-national-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/bolivia-national/bolivia-national-2026/scoreboard/20261123-live-84098ef4/page.html",
+   "url": "https://icpcbolivia.org/competencias/2026-fase-2/resultados/",
+   "fetched": "2026-11-23T13:22:33+00:00",
+   "sha256_source": "778ef5e4504e98aefa7dcd954bb99277f70c438709841d10d73813efc8fdac52"
+  },
+  {
+   "contest": "bolivia-national-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/bolivia-national/bolivia-national-2026/standings/20261123-live-5ed7a37f/page.html",
+   "url": "https://icpcbolivia.org/competencias/consolidado/2026/",
+   "fetched": "2026-11-23T13:23:31+00:00",
+   "sha256_source": "f518d6f444911cafa207c789fdbef1eb1827a4b0f74f76540c5695dace1c8d56"
   },
   {
    "contest": "bolivia-national-2026",
@@ -1468,6 +1688,16 @@
    "sha256_source": "49d59d496fa11ff0e1486d423ef865c6f7dc3ea914aa81aa2e4f7825d76140df"
   },
   {
+   "contest": "brazil-first-phase-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/brazil-first-phase/brazil-first-phase-2023/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/South-America-Brazil-First-Phase-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "2c602d267003705d496af40fe260a4688003fe7e14b344f1e78f8fdaabdcfb66"
+  },
+  {
    "contest": "brazil-first-phase-2024",
    "artifact": "rankings",
    "shard": 3,
@@ -1518,6 +1748,16 @@
    "sha256_source": "ee6dc5f485afe692c4d7317d51dcf5c1d11fd41a95b71bd8764619b3436b107e"
   },
   {
+   "contest": "brazil-first-phase-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/brazil-first-phase/brazil-first-phase-2024/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/South-America-Brazil-First-Phase-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "9cd16fe07c45ea4d490459a6224c392ca19d669e867d440a09a706badd98fb60"
+  },
+  {
    "contest": "brazil-first-phase-2025",
    "artifact": "rankings",
    "shard": 3,
@@ -1556,6 +1796,16 @@
    "url": "https://scorelatam.naquadah.com.br/subbr-2025/",
    "fetched": "2026-11-16T05:13:42+00:00",
    "sha256_source": "82b9d55622d087a88457a796b208ebe3f2b47a5d8d124694262d2598059f446d"
+  },
+  {
+   "contest": "brazil-first-phase-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/brazil-first-phase/brazil-first-phase-2025/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/South-America-Brazil-First-Phase-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "d7c124cd935c1b70a51c93e6948449cd7b21c1097d277f4ef1216db202b61fcd"
   },
   {
    "contest": "brazil-first-phase-2025",
@@ -1626,6 +1876,16 @@
    "url": "https://scorelatam.naquadah.com.br/subbr-2026/",
    "fetched": "2026-11-13T07:17:12+00:00",
    "sha256_source": "9b39c2304828c6493a98460c361c1c8d7401dbf4d4db4e60c36d6e9253c62433"
+  },
+  {
+   "contest": "brazil-first-phase-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/brazil-first-phase/brazil-first-phase-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/South-America-Brazil-First-Phase-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "280dbf0e009e96b814eee10d7c48874fd5f7145e6c405dba7deca4b301bffd98"
   },
   {
    "contest": "brazil-2023",
@@ -1928,6 +2188,16 @@
    "sha256_source": "feff5558764280a9ec6d9b5d17a07515e9783f3318075304a54f2d5e699183e1"
   },
   {
+   "contest": "caribbean-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/caribbean/caribbean-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/CaribFinals-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "593aad9b62368bf284e1e30c3c817c2102d5bde943c15066622494042538a048"
+  },
+  {
    "contest": "central-america-2023",
    "artifact": "scoreboard",
    "shard": 3,
@@ -2026,6 +2296,16 @@
    "url": "https://scorelatam.naquadah.com.br/latam-2026/",
    "fetched": "2026-11-13T07:17:13+00:00",
    "sha256_source": "feff5558764280a9ec6d9b5d17a07515e9783f3318075304a54f2d5e699183e1"
+  },
+  {
+   "contest": "central-america-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/central-america/central-america-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Central-America-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "96bf4697797f9626fa352c3d32113cbd673def1c2ebb8c182272396cefdf5222"
   },
   {
    "contest": "central-russia-2023",
@@ -2238,6 +2518,16 @@
    "sha256_source": "47a51cb4244bfe4764b8859a99f31b9727e41e2d2b4978f319385b5c5247250b"
   },
   {
+   "contest": "chengdu-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/chengdu/chengdu-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Chengdu-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "c04220b22f23d79eee1edcfee2b42c4deda6af69e3ac3fe3740365b653e1f6f3"
+  },
+  {
    "contest": "chennai-2023",
    "artifact": "web-mirror",
    "shard": 3,
@@ -2348,6 +2638,16 @@
    "sha256_source": "f5504dd0d6662247c7c4308d712453112becf17b01bfd9b32fe4392a9074e15b"
   },
   {
+   "contest": "colombia-maraton-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/colombia-maraton/colombia-maraton-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/ColombiaMaratonNalACISREDIS-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "13bea0be23b84fea8564b7bea094bd6bf0c93b162dc3ac7924baa7ff4f26ed5e"
+  },
+  {
    "contest": "croatia-2023",
    "artifact": "scoreboard",
    "shard": 3,
@@ -2406,6 +2706,16 @@
    "url": "https://hsin.hr/studenti2025/rezultati.php",
    "fetched": "2026-09-01T07:56:37+00:00",
    "sha256_source": "c7a44775de760b41cd732217ce5cce6221e6acb1bf094619838f563231c7128d"
+  },
+  {
+   "contest": "croatia-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/croatia/croatia-2026/scoreboard/20261123-live-f34c2c0f/page.html",
+   "url": "https://hsin.hr/studenti2026/rezultati.php",
+   "fetched": "2026-11-23T13:21:25+00:00",
+   "sha256_source": "32a44cad1593bdd9b4c2716c73cea4138814789bb1ffab3b6b1204be8c08c568"
   },
   {
    "contest": "ctuo-2023",
@@ -2788,6 +3098,16 @@
    "sha256_source": "97f632a6aa0440fdf95456104d6238002e43ff580453e2f8ecde167fd6c85262"
   },
   {
+   "contest": "east-na-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/east-na/east-na-2026/scoreboard/20261123-live-86fb1547/index.html",
+   "url": "https://east.na.icpc.global/scoreboard/2026/eastdiv/index.html",
+   "fetched": "2026-11-23T13:22:10+00:00",
+   "sha256_source": "adec09c79666c22566cd6ac5a929f3c2821a0e9a6df9f43f84b93568cef7edb5"
+  },
+  {
    "contest": "east-siberia-2023",
    "artifact": "scoreboard",
    "shard": 3,
@@ -2928,6 +3248,26 @@
    "sha256_source": "89563b2c0cb7162a4639c3a488994ecbe68e20294622193fef5f6943eb7e9307"
   },
   {
+   "contest": "ecna-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/ecna/ecna-2026/scoreboard/20261123-live-ca718724/page.html",
+   "url": "https://east.na.icpc.global/scoreboard/2026/eastdiv/index_East%20Central%20NA.html",
+   "fetched": "2026-11-23T13:22:11+00:00",
+   "sha256_source": "8b0021f44ddf24b7fba6d5cb59a2ae63d8f19050cf7198bef955cafc5ebfb1c3"
+  },
+  {
+   "contest": "ecna-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/ecna/ecna-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/East-Central-NA-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "97f69ea43b158db90b8a7f6ae9f2fb23c741fa6c8a10c53acb9c2e1c98189fd2"
+  },
+  {
    "contest": "egypt-2023",
    "artifact": "frozen_scoreboard",
    "shard": 3,
@@ -2986,6 +3326,16 @@
    "url": "https://icpc.global/regionals/finder/ECPC-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "117fafed8a0426a39e23686312adea1944251efe6a8d95233275de1498869703"
+  },
+  {
+   "contest": "egypt-2026",
+   "artifact": "frozen_scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt/egypt-2026/frozen_scoreboard/20261123-live-0cd3a6d9/all.html",
+   "url": "https://acpcsb.acpc.global/ECPC2026/all.html",
+   "fetched": "2026-11-23T13:22:28+00:00",
+   "sha256_source": "dda535a7a51c3b96fd2a766faae7886cbb00929d9f25b15cc6c9bf6687944868"
   },
   {
    "contest": "egypt-2026",
@@ -3158,6 +3508,16 @@
    "sha256_source": "4d456936e22c09f1123f0c98db66436d4eb28d6d4779d0ecb5f85585e03747c8"
   },
   {
+   "contest": "euc-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/euc/euc-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/EUC-2026/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "9d418f34ec6fb214a88e34bbc1c2a965d435547fc4b8ae181fbd98efb4fb5d08"
+  },
+  {
    "contest": "far-east-russia-2023",
    "artifact": "standings",
    "shard": 3,
@@ -3326,6 +3686,16 @@
    "url": "https://neerc.ifmo.ru/archive/2026/georgia/standings.html",
    "fetched": "2026-11-16T19:08:22+00:00",
    "sha256_source": "5e7f951ebf50ec20559aa8aef657e36d11be3d1ed0ed1c6e7ec858eb5b87b25b"
+  },
+  {
+   "contest": "georgia-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/georgia/georgia-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Georgia-Regional-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "e2aa2b625ff913cd1cc276373612d23c341a42e93d3a14fc5c5306005be6033f"
   },
   {
    "contest": "germany-2023",
@@ -3528,6 +3898,46 @@
    "sha256_source": "4905d80be494d70ce202afdae6121a32bc0f6f5ab4f30826b6bb573f949448be"
   },
   {
+   "contest": "gny-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/gny/gny-2026/scoreboard/20261123-live-30516017/page.html",
+   "url": "https://east.na.icpc.global/scoreboard/2026/eastdiv/index_Greater%20New%20York.html",
+   "fetched": "2026-11-23T13:22:12+00:00",
+   "sha256_source": "fb01309432979309ad81a8e9b322cc176d12d533b7227ca3fa2a223b24f3d254"
+  },
+  {
+   "contest": "gny-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/gny/gny-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Greater-New-York-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "1fe771a664e6d453bb377038d3ebd7b0dcbf704cf58e7adb4475b0651adedcf1"
+  },
+  {
+   "contest": "gran-premio-centroamerica-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/gran-premio-centroamerica/gran-premio-centroamerica-2023/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/GP-Centroamerica-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "26d406dc2edba2679351878559d1bf3f5de7c7a5b0b2dc6784ae2e0e0833fb6d"
+  },
+  {
+   "contest": "gran-premio-centroamerica-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/gran-premio-centroamerica/gran-premio-centroamerica-2024/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/GP-Centroamerica-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "82381605b3b4e50c5005f94d62c2f23233d7c5f7eee69448d70c1ee2959df1f1"
+  },
+  {
    "contest": "gran-premio-centroamerica-2025",
    "artifact": "standings",
    "shard": 3,
@@ -3578,6 +3988,16 @@
    "sha256_source": "efb6bab9b31bb1d7671f44d9b147e5d46b86cdabfa9f08e8f6f907b2ad4eef20"
   },
   {
+   "contest": "gran-premio-centroamerica-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/gran-premio-centroamerica/gran-premio-centroamerica-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/GP-Centroamerica-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "375c9d17ad295af95fa92f92a9948bd33b62ede1f7f6bbc690ba9a9622ca7813"
+  },
+  {
    "contest": "gran-premio-mexico-2023",
    "artifact": "standings",
    "shard": 3,
@@ -3596,6 +4016,16 @@
    "url": "https://eventos.iteso.mx/acm/1-primera-fase-granpremiomx/sobre-los-concursos-del-granpremiomx2023/clasificacion-a-la-eliminatoria-regional-icpcmx2023/",
    "fetched": "2026-10-21T03:59:14+00:00",
    "sha256_source": "badc232d0f52d143b4e6ac3776f0f07ba7c5d0d8f0907570bc7e826e63fed0df"
+  },
+  {
+   "contest": "gran-premio-mexico-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/gran-premio-mexico/gran-premio-mexico-2023/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/mcapgp-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "adbab959b7da9e7ddd8bfe1f7f3430a4b51fe856fe8387d8f2a028591fd0f218"
   },
   {
    "contest": "gran-premio-mexico-2024",
@@ -3618,6 +4048,16 @@
    "sha256_source": "6cc5668939a37f0f9457c6494254f98202ee75b2642600356461680c0893a41a"
   },
   {
+   "contest": "gran-premio-mexico-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/gran-premio-mexico/gran-premio-mexico-2024/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/mcapgp-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "58f38dd70347b95fc862123a492f4dca93c3da1083b949c79cfe6b80277cf6d6"
+  },
+  {
    "contest": "gran-premio-mexico-2025",
    "artifact": "standings",
    "shard": 3,
@@ -3638,6 +4078,16 @@
    "sha256_source": "13668365b258107ad34d91dfe2af74c016fc17e1c5c2ed434d392bcdf424d48c"
   },
   {
+   "contest": "gran-premio-mexico-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/gran-premio-mexico/gran-premio-mexico-2025/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/mcapgp-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "3bc525a58699e1b6dbe9dfc5611441ffc8e3681f018c8e62474d231bb92e5776"
+  },
+  {
    "contest": "gran-premio-mexico-2026",
    "artifact": "standings",
    "shard": 3,
@@ -3656,6 +4106,16 @@
    "url": "https://eventos.iteso.mx/acm/1-primera-fase-granpremiomx/sobre-los-concursos-del-gran-premio-de-mexico-2026/clasificacion-a-la-final-mexicana-icpc-2026/",
    "fetched": "2026-10-21T03:59:17+00:00",
    "sha256_source": "6a75f1a00aae3854042c82adf4253b49eb980260624dd8a700af89a74ee2ea6e"
+  },
+  {
+   "contest": "gran-premio-mexico-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/gran-premio-mexico/gran-premio-mexico-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/mcapgp-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "2fb45f4a187b6e9dc63a22bbeea8c75239652691067f9480b5dd892fdaed9323"
   },
   {
    "contest": "greece-2023",
@@ -3856,6 +4316,16 @@
    "url": "https://icpc-hungary.github.io/2025/",
    "fetched": "2026-09-01T08:01:08+00:00",
    "sha256_source": "f4f00f88752c9272585e297c8f26932c00abebd2c5b420955a63039986d29d21"
+  },
+  {
+   "contest": "hungary-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/hungary/hungary-2026/scoreboard/20261123-live-31df00bb/page.html",
+   "url": "https://icpc-hungary.github.io/2026/",
+   "fetched": "2026-11-23T13:23:06+00:00",
+   "sha256_source": "0b26fd7c2bb07f01c79cb0e3e9c7e92a75ae84b06736ed5d6fdf493174dce9e9"
   },
   {
    "contest": "jakarta-2023",
@@ -4648,6 +5118,16 @@
    "sha256_source": "9102b9fdf97918fff7b7ac536fca03f7f4612783e33b66ff31fd19e0d81b45c5"
   },
   {
+   "contest": "kazakhstan-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/kazakhstan/kazakhstan-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Kazakhstan-Regional-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "b516389338b58e16dd100e72beb2ed2310833cedd52bff79ba1ae6cc952a1313"
+  },
+  {
    "contest": "korea-2023",
    "artifact": "scoreboard",
    "shard": 3,
@@ -4736,6 +5216,16 @@
    "url": "https://icpc.global/regionals/finder/Seoul-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "9257b550805a6524749bf25345d2ab3e43f01284401278045598119727315792"
+  },
+  {
+   "contest": "korea-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/korea/korea-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Seoul-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "61983c70f36587fd6275dc0d1c0173cb0e487a232af56fcd9c108c43b96baee8"
   },
   {
    "contest": "korea-2026",
@@ -5548,6 +6038,16 @@
    "sha256_source": "31f2108540fb641177e767cd0d28f8a9006b6794c361d1c51bb1c671381cb904"
   },
   {
+   "contest": "mcpc-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/mcpc/mcpc-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Mid-Central-USA-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "acff4544d7898e3f14198b88204239e765c84f8ed0cf5c0da8c5fdd75693bd1a"
+  },
+  {
    "contest": "mexico-2023",
    "artifact": "external-standings",
    "shard": 3,
@@ -5776,6 +6276,26 @@
    "url": "https://icpc.global/regionals/finder/MRC-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "c4eabdd85d3378a23917aa537895399c325c494b8d85da8c93fca5fbff3a240a"
+  },
+  {
+   "contest": "moscow-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/moscow/moscow-2026/scoreboard/20261123-live-8aa20f09/page.html",
+   "url": "https://results.mrc.msk.ru/mrc2026",
+   "fetched": "2026-11-23T13:23:15+00:00",
+   "sha256_source": "59e790dafff54cc2f19448ca1cbd3560cead92396b074497d5a5c4b83cf12acb"
+  },
+  {
+   "contest": "moscow-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/moscow/moscow-2026/scoreboard/20261123-live-920e6101/page.html",
+   "url": "https://new.contest.yandex.ru/contests/102785/leaderboard",
+   "fetched": "2026-11-23T13:23:12+00:00",
+   "sha256_source": "6836de576ae618d3ac2802d059120eb988c6ba8d7464a811edc243496bfeabbe"
   },
   {
    "contest": "moscow-2026",
@@ -6218,6 +6738,16 @@
    "sha256_source": "fc3a865f68b1459ab449d95314031885fdcc41b7dd8138966d90fc3f8d653e85"
   },
   {
+   "contest": "ncna-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/ncna/ncna-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/North-Central-North-America-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "971ff5eb4dd78849f398f0a2bb01c1b64455110ee5da03fde489bc49cbee5c5c"
+  },
+  {
    "contest": "nena-2023",
    "artifact": "scoreboard",
    "shard": 3,
@@ -6286,6 +6816,26 @@
    "url": "https://icpc.global/regionals/finder/Northeast-North-America-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "97f632a6aa0440fdf95456104d6238002e43ff580453e2f8ecde167fd6c85262"
+  },
+  {
+   "contest": "nena-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/nena/nena-2026/scoreboard/20261123-live-91bf83b0/page.html",
+   "url": "https://east.na.icpc.global/scoreboard/2026/eastdiv/index_Northeast%20NA.html",
+   "fetched": "2026-11-23T13:22:13+00:00",
+   "sha256_source": "fe66198536d2a796580738e6ae35350703270e752cc078d7190564160947dbb0"
+  },
+  {
+   "contest": "nena-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/nena/nena-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Northeast-North-America-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "8b08dd514549ff40c282970f93c16faf2ecad23ac911514ef2b17edd522b2c91"
   },
   {
    "contest": "nerc-2023",
@@ -6436,6 +6986,16 @@
    "url": "https://ncpc25.kattis.com/contests/ncpc25/standings",
    "fetched": "2026-09-01T08:14:54+00:00",
    "sha256_source": "12e93f097f1c91dc801e3d1fd97919884ed0ce6d5036ce498743d619af34be40"
+  },
+  {
+   "contest": "nordic-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/nordic/nordic-2025/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Nordic-2026/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "9164f3a21b2db6eef805ecf002eda4a180e49c860171cbced68b6cb9d07548a1"
   },
   {
    "contest": "nordic-2025",
@@ -6736,6 +7296,16 @@
    "url": "https://neerc.itmo.ru/archive/2026/northern/standings.html",
    "fetched": "2026-11-16T19:09:58+00:00",
    "sha256_source": "31a04e6ebc126e898278ba6fde198fb845f97af7846b822194db1f8d58291349"
+  },
+  {
+   "contest": "north-russia-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/north-russia/north-russia-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Northwestern-Russia-Regional-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "9b88e19e5a82e359ab17ba0f628900830722e265da5b25b754a0bbfab4a96327"
   },
   {
    "contest": "nwerc-2023",
@@ -7048,6 +7618,36 @@
    "sha256_source": "31abae97c93f91b3f89707599a0af8b21051e3e9bb993fb7cedcf25cc280d851"
   },
   {
+   "contest": "oman-capital-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/oman-capital/oman-capital-2025/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/OCPCCap-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "7381f85e5815592fc4b3c3abf1cd10b6d774b9b05f99c385837d8bdf22ac90ca"
+  },
+  {
+   "contest": "oman-capital-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/oman-capital/oman-capital-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/OCPCCap-2027/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "a4218c3858f7461d5125c53b743f0648a8677d24d3d60f617d885bd89c63c74f"
+  },
+  {
+   "contest": "oman-coastline-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/oman-coastline/oman-coastline-2025/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/OCPCCos-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "8c7acd92f2e7b6376cc1d61153846d31a3acb728bb06c31d04223e10370dedc6"
+  },
+  {
    "contest": "oman-coastline-2025",
    "artifact": "web-mirror",
    "shard": 3,
@@ -7088,6 +7688,26 @@
    "sha256_source": "210f00b0bcca1414ac16568bfea087c39d74fa342d3d8d01de88a9e50048b689"
   },
   {
+   "contest": "oman-coastline-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/oman-coastline/oman-coastline-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/OCPCCos-2027/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "860c58b09d013f8844663266bdcd100a9c580e306eebc3193662116847086605"
+  },
+  {
+   "contest": "oman-midland-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/oman-midland/oman-midland-2025/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/OCPCMid-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "a40843581e64a4be4395025cefea8ec594e877a5980fb7dd502aeb82a6bf7829"
+  },
+  {
    "contest": "oman-midland-2025",
    "artifact": "web-mirror",
    "shard": 3,
@@ -7106,6 +7726,26 @@
    "url": "https://mtcit.gov.om/media-4/news-announcements-11/news-85/oman-programming-contest-2025-concludes-with-strong-competition-150",
    "fetched": "2026-10-23T16:34:23+00:00",
    "sha256_source": "7ed9a0e3dc5e0ef1440a14a17539426d43f27b85bc484e0e08ffccdc4cc72e95"
+  },
+  {
+   "contest": "oman-midland-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/oman-midland/oman-midland-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/OCPCMid-2027/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "593b234394a0b93e0737eda0a3aedd390119a401d2a68461e762ba89da9eb64f"
+  },
+  {
+   "contest": "oman-oriental-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/oman-oriental/oman-oriental-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/OCPCOri-2027/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "2b1598095160edb49c5e0f83f6c056dec7b4733b6a45aaafe4520fc735f139fa"
   },
   {
    "contest": "oman-southern-2025",
@@ -7136,6 +7776,26 @@
    "url": "https://unizwa.edu.om/index.php?deptname=&lang=en&newsid=3722",
    "fetched": "2026-10-23T16:45:27+00:00",
    "sha256_source": "40652feb7216de7aaf24b71e73b2e4bdfc02f524443996f39c8d2b9f4a1dcb8f"
+  },
+  {
+   "contest": "oman-2025",
+   "artifact": "rankings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/oman/oman-2025/rankings/20251004-wayback-217d7a77/page.html",
+   "url": "https://mtcit.gov.om/media-4/news-announcements-11/news-85/oman-programming-contest-2025-concludes-with-strong-competition-150",
+   "fetched": "2026-11-23T13:24:23+00:00",
+   "sha256_source": "1c3f7950ccab59863ab7123bbe043e4c51eece5ea44b3c61c915ecc0ce1849fd"
+  },
+  {
+   "contest": "oman-2025",
+   "artifact": "rankings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/oman/oman-2025/rankings/20261123-live-55f52d64/page.html",
+   "url": "https://mtcit.gov.om/media-4/news-announcements-11/news-85/oman-programming-contest-2025-concludes-with-strong-competition-150",
+   "fetched": "2026-11-23T13:23:15+00:00",
+   "sha256_source": "877c73a9b9fb8ff7daeef390ba6a9e770e2894f7dd647999a43455da87344c70"
   },
   {
    "contest": "oman-2025",
@@ -7386,6 +8046,36 @@
    "url": "https://icpc.global/regionals/finder/PacNW-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "969ee41f7cad0606be5e51edd15c837d87070eb7c4337ec3116791d1cd8d68d5"
+  },
+  {
+   "contest": "pacnw-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/pacnw/pacnw-2026/scoreboard/20261123-live-e52fea6c/index_D2.html",
+   "url": "https://pnw.na.icpc.global/scoreboard/2026/real/index_D2.html",
+   "fetched": "2026-11-23T13:22:04+00:00",
+   "sha256_source": "b2e4ee3afa3b1fc78bd41408d0aff69d926a2fff890efc1188a411db5a77af50"
+  },
+  {
+   "contest": "pacnw-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/pacnw/pacnw-2026/scoreboard/20261123-live-eb226afc/index_D1.html",
+   "url": "https://pnw.na.icpc.global/scoreboard/2026/real/index_D1.html",
+   "fetched": "2026-11-23T13:22:03+00:00",
+   "sha256_source": "4a6ade6f826fafbea90d45e261e54a7d67ddaaa2f51846293f2d54123751266a"
+  },
+  {
+   "contest": "pacnw-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/pacnw/pacnw-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/PacNW-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "6ebf16223fc8653748852b374ecf87aee44e2cf143431df255b01a52cd309f71"
   },
   {
    "contest": "pakistan-2023",
@@ -7756,6 +8446,16 @@
    "url": "https://marhaba.qa/qatar-collegiate-programming-contest-brings-together-135-student-teams/",
    "fetched": "2026-11-16T19:11:09+00:00",
    "sha256_source": "7b430b92a1e2f3d0445d77d02a53a2320f4957c620f802ac26f87d595d85a4e4"
+  },
+  {
+   "contest": "qatar-2026",
+   "artifact": "rankings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/qatar/qatar-2026/rankings/20261117-wayback-874283da/page.html",
+   "url": "https://marhaba.qa/qatar-collegiate-programming-contest-brings-together-135-student-teams/",
+   "fetched": "2026-11-23T13:24:13+00:00",
+   "sha256_source": "834fa57a84d04421e4fa37f4c9341b76d969688387f60b5418e320caaf9e2bc0"
   },
   {
    "contest": "rmc-2023",
@@ -8728,6 +9428,16 @@
    "sha256_source": "feff5558764280a9ec6d9b5d17a07515e9783f3318075304a54f2d5e699183e1"
   },
   {
+   "contest": "south-america-north-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/south-america-north/south-america-north-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/South-America-North-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "49bd95cef826bb5d33a69c8365e31f84c052ae5ae03e28ca5ba1ec13a0a8964e"
+  },
+  {
    "contest": "south-america-south-2023",
    "artifact": "scoreboard",
    "shard": 3,
@@ -8826,6 +9536,16 @@
    "url": "https://scorelatam.naquadah.com.br/latam-2026/",
    "fetched": "2026-11-13T07:17:18+00:00",
    "sha256_source": "feff5558764280a9ec6d9b5d17a07515e9783f3318075304a54f2d5e699183e1"
+  },
+  {
+   "contest": "south-america-south-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/south-america-south/south-america-south-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/SouthAmerica-South-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "6de85fd3db3d79875aa3a75fcdd8a211eab142e6e950674b5b9b0beda880690b"
   },
   {
    "contest": "south-na-2023",
@@ -9748,6 +10468,16 @@
    "sha256_source": "4f52b1bab42f9090ff1d43486adab956e452eadae6aa826a0b930defede67fdf"
   },
   {
+   "contest": "tajikistan-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/tajikistan/tajikistan-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/TjRC-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "16b0f2f01743432b501888feb84989b1b229c2b7a37858f1dfe0f16d5e5add74"
+  },
+  {
    "contest": "tap-2023",
    "artifact": "standings",
    "shard": 3,
@@ -9786,6 +10516,16 @@
    "url": "https://icpc.com.ar/resultados-tap-2025/",
    "fetched": "2026-10-21T04:08:13+00:00",
    "sha256_source": "de4761dc812c279614300ef18eedeefa16439f159b50cb95d4374e5339a63a96"
+  },
+  {
+   "contest": "tap-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/tap/tap-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/TAP-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "c80f3450bb7fe420526570de0699e8590825432da63ae5bfd17ed018ecc3b4c3"
   },
   {
    "contest": "taurida-2023",
@@ -10018,6 +10758,16 @@
    "sha256_source": "67f39bb8b44a965bfbfb45dbf65100018455eaf9e38dd44cd484118c75b24f7e"
   },
   {
+   "contest": "taurida-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/taurida/taurida-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Taurida-Regional-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "1afe7358ebba079132d1abab308abc4098d5dc1682916f721eda8e6a12d7ba71"
+  },
+  {
    "contest": "tehran-2023",
    "artifact": "external-standings",
    "shard": 3,
@@ -10238,6 +10988,26 @@
    "sha256_source": "8a074b3991a3c1a96576908fd1268a13e8af8b4e8e5d2a5f8db96a567283c3b1"
   },
   {
+   "contest": "thailand-national-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/thailand-national/thailand-national-2026/scoreboard/20261123-live-9ba0610a/scoreboard-icpc-2026.html",
+   "url": "https://icpc.cs.sci.ku.ac.th/scoreboard/scoreboard-icpc-2026.html",
+   "fetched": "2026-11-23T13:22:47+00:00",
+   "sha256_source": "6c64b1bc07bdbd6d869563b2f5aee51f4571aa2a3e796f07532c7f07a2f31174"
+  },
+  {
+   "contest": "thailand-national-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/thailand-national/thailand-national-2026/scoreboard/20261123-live-bce2d7d4/scoreboard.json",
+   "url": "https://icpc.cs.sci.ku.ac.th/scoreboard/scoreboard.json",
+   "fetched": "2026-11-23T13:22:48+00:00",
+   "sha256_source": "1742a57182c9492fdf0347f94739380aeb3bfbc51b952e56652f921dbee93508"
+  },
+  {
    "contest": "thailand-2025",
    "artifact": "scoreboard",
    "shard": 3,
@@ -10266,6 +11036,26 @@
    "url": "https://icpc.global/regionals/finder/Bangkok-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "f3803308061da3a336b68853e79062842a08bf9be78d90ed133fcae4b8a8ed92"
+  },
+  {
+   "contest": "torneo-chileno-2023",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/torneo-chileno/torneo-chileno-2023/scoreboard/20231208-wayback-a460994e/page.html",
+   "url": "https://scorelatam.naquadah.com.br/subbr-2023/",
+   "fetched": "2026-11-23T13:22:38+00:00",
+   "sha256_source": "6bb6177d52a59a3a7d7f3ebd7738466fa90281ba3a434085d636f4d097a24340"
+  },
+  {
+   "contest": "torneo-chileno-2023",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/torneo-chileno/torneo-chileno-2023/scoreboard/20261123-live-5d58b438/page.html",
+   "url": "https://scorelatam.naquadah.com.br/subbr-2023/",
+   "fetched": "2026-11-23T13:22:29+00:00",
+   "sha256_source": "1de395d95d21192a72a9d9865e09644db62f4a81dc26269b3266851580a894de"
   },
   {
    "contest": "torneo-chileno-2024",
@@ -10299,6 +11089,16 @@
   },
   {
    "contest": "torneo-chileno-2025",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/torneo-chileno/torneo-chileno-2025/scoreboard/20261123-live-5144c1aa/page.html",
+   "url": "https://scorelatam.naquadah.com.br/subch-2025/",
+   "fetched": "2026-11-23T13:22:29+00:00",
+   "sha256_source": "6044300cd4b4593b5c0b6e568e99eac36efa3f45d3349ae235eeb2bc74745f17"
+  },
+  {
+   "contest": "torneo-chileno-2025",
    "artifact": "web-mirror",
    "shard": 3,
    "repo": "replay-3",
@@ -10316,6 +11116,26 @@
    "url": "https://diario.uach.cl/informatica-uach-fue-sede-regional-del-torneo-chileno-de-programacion-2025/",
    "fetched": "2026-10-23T20:12:26+00:00",
    "sha256_source": "3aa894d8254c5f4ee6c39232dfd5291c92b8f112fd938397252a7ee74bdc0377"
+  },
+  {
+   "contest": "torneo-chileno-2026",
+   "artifact": "frozen_scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/torneo-chileno/torneo-chileno-2026/frozen_scoreboard/20261123-live-4fcca4ce/score-frozen.html",
+   "url": "https://scorelatam.naquadah.com.br/subch-2026/score-frozen.html",
+   "fetched": "2026-11-23T13:22:33+00:00",
+   "sha256_source": "0b7b9e9f1b7f42b930a4f258f61188cde9c5999b8a74036bcbe1e79c44c1dfd3"
+  },
+  {
+   "contest": "torneo-chileno-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/torneo-chileno/torneo-chileno-2026/scoreboard/20261123-live-e3ac8aaa/page.html",
+   "url": "https://scorelatam.naquadah.com.br/subch-2026/",
+   "fetched": "2026-11-23T13:22:31+00:00",
+   "sha256_source": "2aac3ca1eeb7c523ff3c4efc558696cf13bfd05f76e5317ca0c30e980e53e9e0"
   },
   {
    "contest": "tunisia-2023",
@@ -10436,6 +11256,16 @@
    "url": "https://acpcsb.acpc.global/TCPC2024/all.html",
    "fetched": "2026-10-23T20:12:41+00:00",
    "sha256_source": "6c538d9b46b59a0ffe1646edd27f2cf5757182440e5185a5605ecc362f993744"
+  },
+  {
+   "contest": "tunisia-2025",
+   "artifact": "frozen_scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/tunisia/tunisia-2025/frozen_scoreboard/20261123-live-5322d9b3/all.html",
+   "url": "https://acpcsb.acpc.global/TCPC2025/all.html",
+   "fetched": "2026-11-23T13:22:29+00:00",
+   "sha256_source": "4ff439bde9191424b87defd21367d5ae058372575cd1abe59edf858580d00905"
   },
   {
    "contest": "tunisia-2025",
@@ -10608,6 +11438,16 @@
    "sha256_source": "47e3d9767262d353424905c62e2853d907c034b8bc0e4b109cf3cdad1f3753d7"
   },
   {
+   "contest": "turkmenistan-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/turkmenistan/turkmenistan-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Turkmenistan-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "9a4a989c32ab74a3351f2502578629a2b62f8050e98d0632f93bd7e5da7df968"
+  },
+  {
    "contest": "ukiepc-2023",
    "artifact": "scoreboard",
    "shard": 3,
@@ -10706,6 +11546,16 @@
    "url": "https://ukiepc26.kattis.com/contests/ukiepc26/standings",
    "fetched": "2026-11-13T07:18:04+00:00",
    "sha256_source": "3dfd7e877486e9858573243086c5cb17d627ac5f852c6f2de8555d0ba80f8e71"
+  },
+  {
+   "contest": "ukiepc-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/ukiepc/ukiepc-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/UKIEPC-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "20ca7a6b812b47b61804afc24ad2180f54f76ed3afdf398feb47bcc31c544ef6"
   },
   {
    "contest": "ukraine-2023",
@@ -10936,6 +11786,26 @@
    "url": "https://icpc.algotester.com/uk/Contest/ViewScoreboard/4?group=2",
    "fetched": "2026-11-16T16:15:58+00:00",
    "sha256_source": "6131b0ca327ff4c5c08dad0a051db76a7ed75d3e3f37f48f09fdb1e9f3dfa23e"
+  },
+  {
+   "contest": "ukraine-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/ukraine/ukraine-2026/scoreboard/20261027-wayback-cf33c07b/page.html",
+   "url": "https://icpc.in.ua/2026/results/stage-2/",
+   "fetched": "2026-11-23T13:23:36+00:00",
+   "sha256_source": "dff5fdcfee60418af7bdb54557d3b8bd26d13dc86e8f72ecbf9a11371f929dab"
+  },
+  {
+   "contest": "ukraine-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/ukraine/ukraine-2026/scoreboard/20261123-live-29bf1d89/page.html",
+   "url": "https://icpc.in.ua/2026/results/stage-2/",
+   "fetched": "2026-11-23T13:23:06+00:00",
+   "sha256_source": "faaece5b446050c971b91691aedc6d6365e056f2da4791732d9957bd8663114e"
   },
   {
    "contest": "ukraine-2026",
@@ -11309,6 +12179,16 @@
   },
   {
    "contest": "urals-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/urals/urals-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Ural-Regional-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "bf6e63a664af0177e8626723de61e13218f14a298596d557bbe8f53e4b90e57e"
+  },
+  {
+   "contest": "urals-2026",
    "artifact": "teams",
    "shard": 3,
    "repo": "replay-3",
@@ -11369,6 +12249,16 @@
   },
   {
    "contest": "uzbekistan-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/uzbekistan/uzbekistan-2026/scoreboard/20261123-live-df86044a/page.html",
+   "url": "https://opentrains.opencup.org/uz2026res",
+   "fetched": "2026-11-23T13:23:14+00:00",
+   "sha256_source": "a15f5f30bb6fb80a93fee7d8090739af07be81c30f32dbb610a838ee4be3d315"
+  },
+  {
+   "contest": "uzbekistan-2026",
    "artifact": "standings",
    "shard": 3,
    "repo": "replay-3",
@@ -11398,6 +12288,16 @@
    "sha256_source": "631c79c793d404938ce2a226ff60667aea6694d3c7a17e0f76ccc1736951a01a"
   },
   {
+   "contest": "vietnam-national-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/vietnam-national/vietnam-national-2023/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/vietnam-national-2024/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "7792b6c5a726fc8beb66ee6d8412aebc972a8d22c2ac964557d8655cb89e5c91"
+  },
+  {
    "contest": "vietnam-national-2024",
    "artifact": "scoreboard",
    "shard": 3,
@@ -11408,6 +12308,16 @@
    "sha256_source": "ec3f510dcb045437c381caddfad0dc4dff39df5239717504eaaee4c7a587e11b"
   },
   {
+   "contest": "vietnam-national-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/vietnam-national/vietnam-national-2024/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/vietnam-national-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "c9c46b87e4dd59119e6ee35efd7c08ccb2efea52b1eee6487f123264884cb23d"
+  },
+  {
    "contest": "vietnam-national-2025",
    "artifact": "scoreboard",
    "shard": 3,
@@ -11416,6 +12326,16 @@
    "url": "https://icpcvn.github.io/2025/national/scoreboard.html",
    "fetched": "2026-10-23T20:24:11+00:00",
    "sha256_source": "ceb44822ce28a372effdd8caadd199e2cd4ee58ff4170f0b237ca2e0812fb7d1"
+  },
+  {
+   "contest": "vietnam-national-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/vietnam-national/vietnam-national-2025/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/vietnam-national-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "f8f7a21297f0b33cc90f6864c1f48069b471ea3891ef6d566d96e85ecbaade01"
   },
   {
    "contest": "vietnam-national-2026",
@@ -11608,6 +12528,16 @@
    "sha256_source": "2935dcbc74369278aadff57be504fd9a5b13377eb3c77537241b0f5c652ea7fd"
   },
   {
+   "contest": "west-neerc-2026",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/west-neerc/west-neerc-2026/standings/api-20261123/standings.html",
+   "url": "https://icpc.global/regionals/finder/Belarus-Regional-2027/standings",
+   "fetched": "2026-11-23",
+   "sha256_source": "c951148564f7dbe0af9258259833bae187fd8e1e55d468678972e9fdd06d10ee"
+  },
+  {
    "contest": "west-siberia-2023",
    "artifact": "external-standings",
    "shard": 3,
@@ -11796,6 +12726,26 @@
    "url": "https://icpc.global/regionals/finder/West-Siberian-Regional-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "1ca42d027f2c319e3068bbea8265f8afb17c610e98463f5a7041d42e4a42c5cf"
+  },
+  {
+   "contest": "west-siberia-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/west-siberia/west-siberia-2026/scoreboard/20261123-live-bdb389d2/page.html",
+   "url": "https://olymp.nstu.ru/contests/3068/standing",
+   "fetched": "2026-11-23T13:21:25+00:00",
+   "sha256_source": "fd4472667f4dcf7d49d39bfe5714ea8242eb7d1443b329b074da3946025bea44"
+  },
+  {
+   "contest": "west-siberia-2026",
+   "artifact": "teams",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/west-siberia/west-siberia-2026/teams/20261123-live-cf2277aa/page.html",
+   "url": "https://olymp.nstu.ru/contests/3068/competitors",
+   "fetched": "2026-11-23T13:21:26+00:00",
+   "sha256_source": "f820cc32fbeb4b28a93ceee1bcb129c1fe6278356db6a1d8326912a9dff22152"
   },
   {
    "contest": "wf-2023",
