@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T19:27:42+00:00",
+ "generated": "2026-11-25T20:34:43+00:00",
  "shard": 3,
  "shards": {
   "1": "replay",
@@ -13659,6 +13659,16 @@
    "artifact": "scoreboard",
    "shard": 3,
    "repo": "replay-3",
+   "path": "a/wf/wf-2023/scoreboard/20240508-wayback-bbd456f8/index.html",
+   "url": "https://icpc.global/worldfinals/scoreboard/2023/scoreboards/47/index.html",
+   "fetched": "2026-11-25T19:41:19+00:00",
+   "sha256_source": "6b08faa4f8ee431ebcd4ea4abf6d4468978c76148467646139c2cd1d1441dd5a"
+  },
+  {
+   "contest": "wf-2023",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
    "path": "a/wf/wf-2023/scoreboard/20240702-wayback-9770c851/page.html",
    "url": "https://zibada.guru/finals/2023/",
    "fetched": "2026-09-01T17:30:53+00:00",
@@ -13693,6 +13703,16 @@
    "url": "https://icpc.global/worldfinals/scoreboard/2023/scoreboards/index.html",
    "fetched": "2026-11-16T16:13:57+00:00",
    "sha256_source": "a77cb8879673205d1825f319234c844cef336c17dca49027e4972d5194204546"
+  },
+  {
+   "contest": "wf-2023",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/wf/wf-2023/scoreboard/20261125-live-607e8d3b/index.html",
+   "url": "https://icpc.global/worldfinals/scoreboard/2023/scoreboards/47/index.html",
+   "fetched": "2026-11-25T19:40:54+00:00",
+   "sha256_source": "6b08faa4f8ee431ebcd4ea4abf6d4468978c76148467646139c2cd1d1441dd5a"
   },
   {
    "contest": "wf-2023",
