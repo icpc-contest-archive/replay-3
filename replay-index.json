@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T18:51:37+00:00",
+ "generated": "2026-11-25T19:27:42+00:00",
  "shard": 3,
  "shards": {
   "1": "replay",
@@ -1212,16 +1212,6 @@
    "artifact": "scoreboard",
    "shard": 3,
    "repo": "replay-3",
-   "path": "a/bapc-prelims/bapc-prelims-2023/scoreboard/20231203-wayback-15176a17/index.html",
-   "url": "https://2023.bapc.eu/static/prelim_scoreboard/index.html",
-   "fetched": "2026-09-01T12:01:18+00:00",
-   "sha256_source": "4161189738573417509c6997ec9999ae81777dcbd7b7724169051fbb7006042b"
-  },
-  {
-   "contest": "bapc-prelims-2023",
-   "artifact": "scoreboard",
-   "shard": 3,
-   "repo": "replay-3",
    "path": "a/bapc-prelims/bapc-prelims-2023/scoreboard/2026-09-01-live-4b050c49/index.html",
    "url": "https://2023.bapc.eu/static/prelim_scoreboard/index.html",
    "fetched": "2026-09-01T07:53:12+00:00",
@@ -1606,16 +1596,6 @@
    "url": "https://2026.bapc.eu/teams/",
    "fetched": "2026-11-16T05:48:11+00:00",
    "sha256_source": "26ce11d0eca7ce8cc6be57ac612667a2013de4ad26811a65e8cf91133a376cb5"
-  },
-  {
-   "contest": "bolivia-national-2023",
-   "artifact": "scoreboard",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/bolivia-national/bolivia-national-2023/scoreboard/20231208-wayback-a460994e/page.html",
-   "url": "https://scorelatam.naquadah.com.br/subbr-2023/",
-   "fetched": "2026-11-23T13:22:07+00:00",
-   "sha256_source": "6bb6177d52a59a3a7d7f3ebd7738466fa90281ba3a434085d636f4d097a24340"
   },
   {
    "contest": "bolivia-national-2023",
@@ -2036,16 +2016,6 @@
    "url": "https://scorelatam.naquadah.com.br/latam-2023/",
    "fetched": "2026-09-01T12:08:12+00:00",
    "sha256_source": "2edc69946c9d454a1978078ed9e7e51d8b7b1649a87372cf5e06de3df8e0f967"
-  },
-  {
-   "contest": "brazil-2023",
-   "artifact": "scoreboard",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/brazil/brazil-2023/scoreboard/20231208-wayback-a460994e/page.html",
-   "url": "https://scorelatam.naquadah.com.br/subbr-2023/",
-   "fetched": "2026-09-04T14:06:17+00:00",
-   "sha256_source": "6bb6177d52a59a3a7d7f3ebd7738466fa90281ba3a434085d636f4d097a24340"
   },
   {
    "contest": "brazil-2023",
@@ -7994,26 +7964,6 @@
   },
   {
    "contest": "nwerc-2023",
-   "artifact": "external-standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/nwerc/nwerc-2023/external-standings/2026-04-15-external/content.html",
-   "url": "https://2023.nwerc.eu/main/scoreboard",
-   "fetched": "2026-04-15T17:14:34Z",
-   "sha256_source": "c9b050f7b6c38f02d117f4f0023939c1f34316d7eff15dd0e26e5aea53337ac2"
-  },
-  {
-   "contest": "nwerc-2023",
-   "artifact": "scoreboard",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/nwerc/nwerc-2023/scoreboard/20240413-wayback-5117466d/page.html",
-   "url": "https://chipcie.wisv.ch/archive/2023/nwerc/scoreboard/",
-   "fetched": "2026-09-01T15:41:28+00:00",
-   "sha256_source": "c9b050f7b6c38f02d117f4f0023939c1f34316d7eff15dd0e26e5aea53337ac2"
-  },
-  {
-   "contest": "nwerc-2023",
    "artifact": "scoreboard",
    "shard": 3,
    "repo": "replay-3",
@@ -8061,16 +8011,6 @@
    "url": "https://2023.nwerc.eu/test-session/scoreboard.html",
    "fetched": "2026-11-16T05:46:10+00:00",
    "sha256_source": "ec780153f48032c7552ccadc215e08d50ac4b2635c1099fde4b1fd693eaace06"
-  },
-  {
-   "contest": "nwerc-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/nwerc/nwerc-2023/standings/20241210-wayback-9d93f9f9/page.html",
-   "url": "https://2023.nwerc.eu/main/scoreboard",
-   "fetched": "2026-09-01T15:41:25+00:00",
-   "sha256_source": "c9b050f7b6c38f02d117f4f0023939c1f34316d7eff15dd0e26e5aea53337ac2"
   },
   {
    "contest": "nwerc-2023",
@@ -11923,16 +11863,6 @@
    "url": "https://icpc.global/regionals/finder/Bangkok-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "f3803308061da3a336b68853e79062842a08bf9be78d90ed133fcae4b8a8ed92"
-  },
-  {
-   "contest": "torneo-chileno-2023",
-   "artifact": "scoreboard",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/torneo-chileno/torneo-chileno-2023/scoreboard/20231208-wayback-a460994e/page.html",
-   "url": "https://scorelatam.naquadah.com.br/subbr-2023/",
-   "fetched": "2026-11-23T13:22:38+00:00",
-   "sha256_source": "6bb6177d52a59a3a7d7f3ebd7738466fa90281ba3a434085d636f4d097a24340"
   },
   {
    "contest": "torneo-chileno-2023",
