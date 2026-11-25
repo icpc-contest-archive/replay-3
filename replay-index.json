@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T22:28:23+00:00",
+ "generated": "2026-11-25T00:20:52+00:00",
  "shard": 3,
  "shards": {
   "1": "replay",
@@ -13493,6 +13493,256 @@
    "url": "https://icpc.global/regionals/finder/BelarusQ-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "2fb2e24fecf19dd737b064fc3c016d3c65a0e41f902aedd828a8c3e3e5630acc"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7661/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYONE-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "abe2b8e2ddce905e4382b0e82ffd184aa0aba844084d105bb5c2a966485c7755"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7662/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTWO-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "51616bd2149c0a5c7c12a6673342f3b99370e4358f4d67ca8d76dbe2011df8c1"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7664/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTHREE-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "5df6f59d8e13349469ec15e7baec7484dc491e26135c46070c7e9caa4415db46"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7670/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYFOUR-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "0e35994a422727ebadfecff7206fc6a0f413a570b528fa0c4eb99d6cf753efde"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7669/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYFIVE-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "98a6d996dcbe08b74869d78c3ecb083ccf154b41e5b56c4428b9a72adec453a2"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7667/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYSIX-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "f48d65e09e6be563231c255ba66762b6ce2b2bf7bc5ebe60989f54dff3c11143"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7666/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYSEVEN-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "3ed3c1f0e97df986e017524e590eb1a67e12a6d3670cd252a3fd67cb0826991b"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7668/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYEIGHT-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "65bbcf67dacad9f8a38ef645bf0d72307f39642aa7eca7d55dac4068c009ba14"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7660/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYNINE-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "73177349325d3bb97f313a097209cad98e89d01b055ee18f8394280107aa769b"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7663/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTEN-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "6306e7668b4171b471559a232862d1aaaa128cb4aea18e2b5ab5024334f25850"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8841/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYONE-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "327374943ce1bb43ca41adbdc50c3dea8719c03c32f79334e93a05b6e3cf0c0a"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8843/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTWO-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "e39bf116b86bb7e2747c065f9bdb99e83101c103d4a5f0be8f17e2d99c2986a6"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8838/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTHREE-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "7b7c9370d588462909523a78115ce8d5064dd554f5e79c658e321578b7f3d32e"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8840/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYFOUR-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "9a0050d19968249887233a6d267e8d4e4e90ec6a687319a1a3f4692e5c2c45b7"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8837/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYFIVE-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "500345d513aca80362c36239d27f5df0ab5a4152b78ee18da5231f769f91387c"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8839/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYSIX-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "f346a3370d1ee2100ef8cfbbe9744f559cf5a37b643fc1ea876e7824fe07b993"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8844/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYSEVEN-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "2110b84bdfe810faafeca3a9d78d6750cc3c226e14809aaa6246db1f03224945"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9273/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYONE-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "aed4a25b24f0b7d40b7af6a8df354b9429d739f892a4f5c79be43ae0130de9a9"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9281/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTWO-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "6483170508559a78b5d88aed2dbd07577949330812db21324a63c5b096f4417c"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9274/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTHREE-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "1168080e7edb57763f30b59b59a64ec7929d5d22ac47937fa4aed502881df1ab"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9272/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYFOUR-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "7ec8d91e6e138ebab9b99d8c67a0acb9249436e7bb7f9590fc7ab207ca572c39"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9277/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYFIVE-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "a217e7cb2a2267feecea2d03c6370eaf0a9d3cd241dfce30e541954960e35252"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9276/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYSIX-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "84dbe4cd51c04e2eeeb6fe6fd2c304fbf3148e3cf173cc7351ae4ee9ea18fd86"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9279/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYSEVEN-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "524ffe9e9fb84cf196945311306d0164c064263897d2472fe6e367067b3b4072"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9275/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYEIGHT-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "91d464ef9de9a24e7d42fd80d2d1f066292b50d77a7bf394aa2ded0ad5f3ac0b"
   }
  ]
 }
