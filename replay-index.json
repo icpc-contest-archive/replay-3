@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T00:20:52+00:00",
+ "generated": "2026-11-25T04:51:48+00:00",
  "shard": 3,
  "shards": {
   "1": "replay",
@@ -276,6 +276,16 @@
    "url": "https://icpc.global/regionals/finder/ALCPC-2024/standings",
    "fetched": "2026-04-26",
    "sha256_source": "64cb6877db73dded26147eaf8f2a42b5804e869456b610667af2461cfc46dc66"
+  },
+  {
+   "contest": "amritapuri-online-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/amritapuri-online/amritapuri-online-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Asia-Amritapuri-First-Round-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "8a5392b58932ebb43808967a5450f5389041714be7eeb987578f48d32ba33121"
   },
   {
    "contest": "amritapuri-2023",
@@ -846,6 +856,36 @@
    "url": "https://icpc.global/regionals/finder/AWCChampionshipContest-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "d477efa46f249fec09f0fa816a06ec580da32929e026a82b3e936a12aefd563b"
+  },
+  {
+   "contest": "azerbaijan-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/azerbaijan-qualification/azerbaijan-qualification-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Azerbaijan-Qualification-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "ecf792d25db285d2d64f84886e52e3bf9318191e2c101a21eff0581796f8bbb9"
+  },
+  {
+   "contest": "azerbaijan-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/azerbaijan-qualification/azerbaijan-qualification-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Azerbaijan-Qualification-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "685f1cd5218f2c910f8cf90374bd074629f6adb23e3a206923c41733832e6b9b"
+  },
+  {
+   "contest": "azerbaijan-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/azerbaijan-qualification/azerbaijan-qualification-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Azerbaijan-Qualification-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "9cd9137d37a20fbf545985ee24f0f2b25fc2919029f4bf822a0df5073c9f55d7"
   },
   {
    "contest": "azerbaijan-2023",
@@ -2308,6 +2348,36 @@
    "sha256_source": "96bf4697797f9626fa352c3d32113cbd673def1c2ebb8c182272396cefdf5222"
   },
   {
+   "contest": "central-russia-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/central-russia-qualification/central-russia-qualification-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/CentralRussiaQ-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "0a36ee4f95118e7f7e3d778c1cdd336ec5ed03f2dc2d5a84f501a921c4882411"
+  },
+  {
+   "contest": "central-russia-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/central-russia-qualification/central-russia-qualification-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/CentralRussiaQ-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "fd68243ecd31267754222f4e255e5aa34031341be2b8b803a6307d2f98b77c9c"
+  },
+  {
+   "contest": "central-russia-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/central-russia-qualification/central-russia-qualification-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/CentralRussiaQ-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "c20cf91858f7578113ef18af611bcf327f19b73222f4bbd479f15647bbc1484b"
+  },
+  {
    "contest": "central-russia-2023",
    "artifact": "standings",
    "shard": 3,
@@ -2526,6 +2596,16 @@
    "url": "https://icpc.global/regionals/finder/Chengdu-2027/standings",
    "fetched": "2026-11-23",
    "sha256_source": "c04220b22f23d79eee1edcfee2b42c4deda6af69e3ac3fe3740365b653e1f6f3"
+  },
+  {
+   "contest": "chennai-online-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/chennai-online/chennai-online-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/ChennaiICPC-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "3ecd4025c023704f5a41bf8e117381dba6e359dac56a965c52da332625f4b9ec"
   },
   {
    "contest": "chennai-2023",
@@ -2950,6 +3030,16 @@
    "sha256_source": "7768aac73dd78a4d08cdc87ace2a11ad604017c4aa93837737761c13a2e2a08f"
   },
   {
+   "contest": "dhaka-preliminary-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/dhaka-preliminary/dhaka-preliminary-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Dhaka-Preliminary-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "4954040d21d22956fb081804a7245eb9d7e22ee485f20ef5b68988a3cb27a248"
+  },
+  {
    "contest": "dhaka-2023",
    "artifact": "standings",
    "shard": 3,
@@ -3110,6 +3200,16 @@
    "sha256_source": "adec09c79666c22566cd6ac5a929f3c2821a0e9a6df9f43f84b93568cef7edb5"
   },
   {
+   "contest": "east-siberia-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/east-siberia-qualification/east-siberia-qualification-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/EastSiberianQ-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "247b077ecffbdc11dc944176598944468b813a64f28f4c9ad2320a2070a3e117"
+  },
+  {
    "contest": "east-siberia-2023",
    "artifact": "scoreboard",
    "shard": 3,
@@ -3268,6 +3368,256 @@
    "url": "https://icpc.global/regionals/finder/East-Central-NA-2027/standings",
    "fetched": "2026-11-23",
    "sha256_source": "97f69ea43b158db90b8a7f6ae9f2fb23c741fa6c8a10c53acb9c2e1c98189fd2"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7660/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYNINE-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "73177349325d3bb97f313a097209cad98e89d01b055ee18f8394280107aa769b"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7661/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYONE-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "abe2b8e2ddce905e4382b0e82ffd184aa0aba844084d105bb5c2a966485c7755"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7662/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTWO-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "51616bd2149c0a5c7c12a6673342f3b99370e4358f4d67ca8d76dbe2011df8c1"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7663/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTEN-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "6306e7668b4171b471559a232862d1aaaa128cb4aea18e2b5ab5024334f25850"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7664/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTHREE-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "5df6f59d8e13349469ec15e7baec7484dc491e26135c46070c7e9caa4415db46"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7666/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYSEVEN-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "3ed3c1f0e97df986e017524e590eb1a67e12a6d3670cd252a3fd67cb0826991b"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7667/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYSIX-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "f48d65e09e6be563231c255ba66762b6ce2b2bf7bc5ebe60989f54dff3c11143"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7668/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYEIGHT-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "65bbcf67dacad9f8a38ef645bf0d72307f39642aa7eca7d55dac4068c009ba14"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7669/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYFIVE-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "98a6d996dcbe08b74869d78c3ecb083ccf154b41e5b56c4428b9a72adec453a2"
+  },
+  {
+   "contest": "egypt-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7670/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYFOUR-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "0e35994a422727ebadfecff7206fc6a0f413a570b528fa0c4eb99d6cf753efde"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8837/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYFIVE-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "500345d513aca80362c36239d27f5df0ab5a4152b78ee18da5231f769f91387c"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8838/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTHREE-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "7b7c9370d588462909523a78115ce8d5064dd554f5e79c658e321578b7f3d32e"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8839/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYSIX-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "f346a3370d1ee2100ef8cfbbe9744f559cf5a37b643fc1ea876e7824fe07b993"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8840/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYFOUR-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "9a0050d19968249887233a6d267e8d4e4e90ec6a687319a1a3f4692e5c2c45b7"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8841/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYONE-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "327374943ce1bb43ca41adbdc50c3dea8719c03c32f79334e93a05b6e3cf0c0a"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8843/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTWO-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "e39bf116b86bb7e2747c065f9bdb99e83101c103d4a5f0be8f17e2d99c2986a6"
+  },
+  {
+   "contest": "egypt-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8844/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYSEVEN-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "2110b84bdfe810faafeca3a9d78d6750cc3c226e14809aaa6246db1f03224945"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9272/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYFOUR-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "7ec8d91e6e138ebab9b99d8c67a0acb9249436e7bb7f9590fc7ab207ca572c39"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9273/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYONE-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "aed4a25b24f0b7d40b7af6a8df354b9429d739f892a4f5c79be43ae0130de9a9"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9274/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTHREE-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "1168080e7edb57763f30b59b59a64ec7929d5d22ac47937fa4aed502881df1ab"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9275/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYEIGHT-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "91d464ef9de9a24e7d42fd80d2d1f066292b50d77a7bf394aa2ded0ad5f3ac0b"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9276/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYSIX-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "84dbe4cd51c04e2eeeb6fe6fd2c304fbf3148e3cf173cc7351ae4ee9ea18fd86"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9277/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYFIVE-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "a217e7cb2a2267feecea2d03c6370eaf0a9d3cd241dfce30e541954960e35252"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9279/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYSEVEN-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "524ffe9e9fb84cf196945311306d0164c064263897d2472fe6e367067b3b4072"
+  },
+  {
+   "contest": "egypt-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9281/standings.html",
+   "url": "https://icpc.global/regionals/finder/ECPCQDAYTWO-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "6483170508559a78b5d88aed2dbd07577949330812db21324a63c5b096f4417c"
   },
   {
    "contest": "egypt-2023",
@@ -3518,6 +3868,36 @@
    "url": "https://icpc.global/regionals/finder/EUC-2026/standings",
    "fetched": "2026-11-23",
    "sha256_source": "9d418f34ec6fb214a88e34bbc1c2a965d435547fc4b8ae181fbd98efb4fb5d08"
+  },
+  {
+   "contest": "far-east-russia-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/far-east-russia-qualification/far-east-russia-qualification-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/FEQ-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "7af0bdf90448cae57d41004a2f3c1f04a571ab92080697bef34dc8b00953a472"
+  },
+  {
+   "contest": "far-east-russia-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/far-east-russia-qualification/far-east-russia-qualification-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/FEQ-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "3d9bf77aab740b5cec07caea250bda767f8bd74eb0cdc7aaa78e7fc8dd16cc94"
+  },
+  {
+   "contest": "far-east-russia-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/far-east-russia-qualification/far-east-russia-qualification-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/FEQ-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "261dcfaf931c7b223e8e461967ce311ced799a5111c43cbeda0ef99830c98223"
   },
   {
    "contest": "far-east-russia-2023",
@@ -4331,6 +4711,36 @@
    "sha256_source": "0b26fd7c2bb07f01c79cb0e3e9c7e92a75ae84b06736ed5d6fdf493174dce9e9"
   },
   {
+   "contest": "indonesia-national-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/indonesia-national/indonesia-national-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Jakarta-National-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "87ab34160778bb2042d1bc6d9c87ed95768e5058607751e5db885e1d45480144"
+  },
+  {
+   "contest": "indonesia-national-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/indonesia-national/indonesia-national-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Jakarta-National-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "1085da715086654359ebeee90a1abbf3a8dd7cc2064ae9b305a55a5a76f0511d"
+  },
+  {
+   "contest": "indonesia-national-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/indonesia-national/indonesia-national-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Jakarta-National-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "0ba3615aaf945e7bb1e465ab618fdc1d0ff914e13fd5cec44e44c417d8434956"
+  },
+  {
    "contest": "jakarta-2023",
    "artifact": "scoreboard",
    "shard": 3,
@@ -4419,6 +4829,36 @@
    "url": "https://icpc.global/regionals/finder/Jakarta-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "0ed3ecfbd3d4d719b1b283e60f403e8f6ce612e0b9b8062546295d8d258e0b08"
+  },
+  {
+   "contest": "japan-domestic-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/japan-domestic/japan-domestic-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Japan-First-Round-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "f12e67c3e70e0d92ed0cd98fc729014d9faa6503050d0bb36918942cc5a435ca"
+  },
+  {
+   "contest": "japan-domestic-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/japan-domestic/japan-domestic-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Japan-First-Round-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "470cad6983888bf8b312b896d8fe34276eb8bbddc898fb680a9ec3352c054681"
+  },
+  {
+   "contest": "japan-domestic-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/japan-domestic/japan-domestic-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Japan-First-Round-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "b69c051867d9fd1d8b62dd479d4106bd3cba0b350df38822dd6a01e28ac95dff"
   },
   {
    "contest": "japan-2023",
@@ -4891,6 +5331,26 @@
    "sha256_source": "3a29eb0e92d7bc94ca87cbcea1fd4ee30787c629bba38d3e9820ed9616cba065"
   },
   {
+   "contest": "kazakhstan-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/kazakhstan-qualification/kazakhstan-qualification-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Kazakhstan-Q-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "5c0d9b51854cc7df921efef0c7166b26dc7050219a1cd6278d5f77ec9a2f7d04"
+  },
+  {
+   "contest": "kazakhstan-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/kazakhstan-qualification/kazakhstan-qualification-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Kazakhstan-Q-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "cb3d363aa691ff9a9b7e45fc5052ed8ffbb227d36a075f3d870c432f33a98bb0"
+  },
+  {
    "contest": "kazakhstan-2023",
    "artifact": "scoreboard",
    "shard": 3,
@@ -5131,6 +5591,36 @@
    "sha256_source": "b516389338b58e16dd100e72beb2ed2310833cedd52bff79ba1ae6cc952a1313"
   },
   {
+   "contest": "korea-first-round-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/korea-first-round/korea-first-round-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Seoul-First-Round-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "9589392801ad2651e286023e9f5b9d863af013401df930544302c45175c3e3ca"
+  },
+  {
+   "contest": "korea-first-round-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/korea-first-round/korea-first-round-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Seoul-First-Round-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "be803e48c91dc2f483ffd60ee494153a77fb9f8ea03eb725de10487a10d037d3"
+  },
+  {
+   "contest": "korea-first-round-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/korea-first-round/korea-first-round-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Seoul-First-Round-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "41479544021bfc355171c8a59488de934119c6f106e00ee575886d5c0b63eba0"
+  },
+  {
    "contest": "korea-2023",
    "artifact": "scoreboard",
    "shard": 3,
@@ -5350,6 +5840,36 @@
    "url": "https://www.auk.edu.kw/media-hub/news/the-american-university-of-kuwait-hosts-the-14th-kuwait-collegiate-programming-contest-kcpc",
    "fetched": "2026-11-16T19:11:04+00:00",
    "sha256_source": "7293cb74858955986c49ab33e2e371efe2ea32a2dff095d057cccc351dd070e9"
+  },
+  {
+   "contest": "kyrgyzstan-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/kyrgyzstan-qualification/kyrgyzstan-qualification-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/KyrgyzstanQ-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "16b8c010f7208caf6582c2255dc4855fc805fe2a2dfb3dc8e716705403200f4c"
+  },
+  {
+   "contest": "kyrgyzstan-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/kyrgyzstan-qualification/kyrgyzstan-qualification-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/KyrgyzstanQ-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "f3e2f8e912a0a86396bd037b2907ef5e97b8b4889706665d9986039a7ef67384"
+  },
+  {
+   "contest": "kyrgyzstan-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/kyrgyzstan-qualification/kyrgyzstan-qualification-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/KyrgyzstanQ-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "68b8a0b4d8f3e2960e659e1b15c53e11817c3ceb0b97ee23cd742a6af8b3db73"
   },
   {
    "contest": "kyrgyzstan-2023",
@@ -6212,6 +6732,36 @@
    "sha256_source": "42b140299c96c71ac65ce75db3fd2e3ff5fa5781b070a6441673182c94e07131"
   },
   {
+   "contest": "moscow-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/moscow-qualification/moscow-qualification-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/MRCQ-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "3892160c48558d9aa181a2d2fe36ba9192a56fa59a5c6de63a0759707aa0413d"
+  },
+  {
+   "contest": "moscow-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/moscow-qualification/moscow-qualification-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/MRCQ-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "45102f29e651886fd2a9b70ac2aed5123cea42f04090c723b8c393a8d3b13d3a"
+  },
+  {
+   "contest": "moscow-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/moscow-qualification/moscow-qualification-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/MRCQ-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "9c83a76410a88d661bff16b87110139b71af6ef1c1dcc93e53c89c182062442c"
+  },
+  {
    "contest": "moscow-2023",
    "artifact": "standings",
    "shard": 3,
@@ -7031,6 +7581,36 @@
    "url": "https://ncpc26.kattis.com/contests/ncpc26/standings",
    "fetched": "2026-11-13T07:17:52+00:00",
    "sha256_source": "73e4d25553f67c1787888a77e40ea147e0278805b66d32aee25fedcdcee13183"
+  },
+  {
+   "contest": "north-russia-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/north-russia-qualification/north-russia-qualification-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/northwestern-qualification-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "d5c452c9447a98dfa6383ffa1430421f4e56fb85ef41b1f8a6187692f40346c1"
+  },
+  {
+   "contest": "north-russia-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/north-russia-qualification/north-russia-qualification-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/northwestern-qualification-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "1bdc83344601305f4de30e24fcf5185972085d9e141523924421769c5bca138f"
+  },
+  {
+   "contest": "north-russia-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/north-russia-qualification/north-russia-qualification-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/northwestern-qualification-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "7fa9a2e25c6fce5da4f4135590a562df6fc69d8daacd214189f1d1f011c1e27b"
   },
   {
    "contest": "north-russia-2023",
@@ -8083,6 +8663,36 @@
    "sha256_source": "6ebf16223fc8653748852b374ecf87aee44e2cf143431df255b01a52cd309f71"
   },
   {
+   "contest": "pakistan-preliminary-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/pakistan-preliminary/pakistan-preliminary-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Asia-Lahore-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "9292165e32920e0deac0f55296cb4bdb2788bce86f3667fda3371d3f9ee56e86"
+  },
+  {
+   "contest": "pakistan-preliminary-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/pakistan-preliminary/pakistan-preliminary-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Asia-Lahore-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "94d6c0a5be9142947d2f3488108356a30addf7e440df08ae5179ec40dac5677f"
+  },
+  {
+   "contest": "pakistan-preliminary-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/pakistan-preliminary/pakistan-preliminary-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Asia-Lahore-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "529ce73f93a7f8b3c1310f338ccbcc665718b467b4051280572ec20cedb6c737"
+  },
+  {
    "contest": "pakistan-2023",
    "artifact": "external-standings",
    "shard": 3,
@@ -8593,6 +9203,16 @@
    "url": "https://nacentral26.kattis.com/contests/nacentral26d2/standings",
    "fetched": "2026-11-13T07:17:43+00:00",
    "sha256_source": "b4f8d98c933aac2656f7f80f874df98fe09601f17e1a610b8c191982715666af"
+  },
+  {
+   "contest": "romania-iasi-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/romania-iasi/romania-iasi-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Romania-Iasi-Subregion-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "feb32fe4313599720e381db268a050956972b24f895be3f4864e63900fde0beb"
   },
   {
    "contest": "romania-2023",
@@ -9855,6 +10475,36 @@
    "sha256_source": "f5ef5d58e5d083797a0304d0e1f6880d32f0840e5df5cdf55df0fbfa7f3d1a04"
   },
   {
+   "contest": "south-russia-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/south-russia-qualification/south-russia-qualification-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/SouthernVolgaRussiaQ-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "0aa081cabf6876022f4cb6f58a58573ba28755301b41ab112471949f370c639f"
+  },
+  {
+   "contest": "south-russia-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/south-russia-qualification/south-russia-qualification-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/SouthernVolgaRussiaQ-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "cbe96d314985f5af7e1aa625e26372a75bdae3aa0df245d44aa1ac79003e0cfe"
+  },
+  {
+   "contest": "south-russia-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/south-russia-qualification/south-russia-qualification-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/SouthernVolgaRussiaQ-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "5238ba46e5dc093effd9c1aeffc42fdc92a83296d2d9382aaa2f478acd50afd3"
+  },
+  {
    "contest": "south-russia-2023",
    "artifact": "external-standings",
    "shard": 3,
@@ -10283,6 +10933,106 @@
    "url": "https://acpcsb.acpc.global/SCPC2026/all.html",
    "fetched": "2026-11-13T07:17:11+00:00",
    "sha256_source": "271ff536222cbfdf293c45b02eabae5956377a091eace2fbc1ce4fd79099f967"
+  },
+  {
+   "contest": "taiwan-ncpc-preliminary-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/taiwan-ncpc-preliminary/taiwan-ncpc-preliminary-2026/scoreboard/20261124-live-7d8a4a34/ncpc2026_scoreboard_pre.html",
+   "url": "https://ncpc.ntnu.edu.tw/ncpc2026php/NCPC_scorboard/ncpc2026_scoreboard_pre.html",
+   "fetched": "2026-11-25T04:39:37+00:00",
+   "sha256_source": "25372a8aa7cc34edb2122e54c54d7904695bb1e7f8ce2115c17b6e58e1eff33f"
+  },
+  {
+   "contest": "taiwan-ncpc-2023",
+   "artifact": "rankings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/taiwan-ncpc/taiwan-ncpc-2023/rankings/20261124-live-949dc4fc/page.pdf",
+   "url": "https://ncpc.ntnu.edu.tw/file/112/112%E5%B9%B4%E5%BA%A6NCPC%E7%8D%8E%E5%8B%B5%E5%90%8D%E5%96%AE(%E5%AE%9A).pdf",
+   "fetched": "2026-11-25T04:38:54+00:00",
+   "sha256_source": "3caf75c57f44fd34daa111535c743694c4612c8e5db738ef1165938cab743300"
+  },
+  {
+   "contest": "taiwan-ncpc-2024",
+   "artifact": "rankings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/taiwan-ncpc/taiwan-ncpc-2024/rankings/20261124-live-a5802d6c/page.pdf",
+   "url": "https://ncpc.ntnu.edu.tw/file/113/113%E5%B9%B4%E5%BA%A6NCPC%E7%8D%8E%E5%8B%B5%E5%90%8D%E5%96%AE(%E5%AE%9A).pdf",
+   "fetched": "2026-11-25T04:38:58+00:00",
+   "sha256_source": "e97e3e4ef72f6942717c938f60ecb3ba69205193a81d55ed846509b05640f8dd"
+  },
+  {
+   "contest": "taiwan-ncpc-2025",
+   "artifact": "rankings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/taiwan-ncpc/taiwan-ncpc-2025/rankings/20261124-live-188bbd6b/page.pdf",
+   "url": "https://ncpc.ntnu.edu.tw/file/114/114%E5%B9%B4%E5%BA%A6NCPC%E7%8D%8E%E5%8B%B5%E5%90%8D%E5%96%AE(%E5%AE%9A).pdf",
+   "fetched": "2026-11-25T04:39:11+00:00",
+   "sha256_source": "d30706990a7085e1b3218e558934c044573f8007fc46704e07200c0b78f88dce"
+  },
+  {
+   "contest": "taiwan-ncpc-2026",
+   "artifact": "rankings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/taiwan-ncpc/taiwan-ncpc-2026/rankings/20261124-live-03895d95/page.pdf",
+   "url": "https://ncpc.ntnu.edu.tw/file/115/115%E5%B9%B4%E5%BA%A6NCPC%E7%8D%8E%E5%8B%B5%E5%90%8D%E5%96%AE(%E5%AE%9A).pdf",
+   "fetched": "2026-11-25T04:39:13+00:00",
+   "sha256_source": "57e97bcca4e12230490701643daf49b2e94871dcc3c67780dc9ff77701bea4e2"
+  },
+  {
+   "contest": "taiwan-ncpc-2026",
+   "artifact": "scoreboard",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/taiwan-ncpc/taiwan-ncpc-2026/scoreboard/20261124-live-06b9007a/ncpc2026_scoreboard_final.html",
+   "url": "https://ncpc.ntnu.edu.tw/ncpc2026php/NCPC_scorboard/ncpc2026_scoreboard_final.html",
+   "fetched": "2026-11-25T04:39:19+00:00",
+   "sha256_source": "aed90903f6dc867fbc11e36218b1f3eadfd3bd6ed345222972d05d2384a61ee9"
+  },
+  {
+   "contest": "taiwan-ncpc-2026",
+   "artifact": "teams",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/taiwan-ncpc/taiwan-ncpc-2026/teams/20261124-live-62ec66d6/page.pdf",
+   "url": "https://ncpc.ntnu.edu.tw/file/115/115ncpc_%E6%B1%BA%E8%B3%BD%E9%9A%8A%E4%BC%8D%E5%90%8D%E5%96%AE.pdf",
+   "fetched": "2026-11-25T04:39:14+00:00",
+   "sha256_source": "6e6b4392aaf88ffd910a337b5dce7ddf6b8b581d6cce9b1aa1c7611ba12b677b"
+  },
+  {
+   "contest": "taiwan-online-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/taiwan-online/taiwan-online-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Taiwan-Online-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "c2ce7b0ff6235c2fac7730f43954309126218409dd964f0df4173a2d39551d4e"
+  },
+  {
+   "contest": "taiwan-online-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/taiwan-online/taiwan-online-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Taiwan-Online-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "f9ad9c000550dfa55683682fceb5b1a6949cfa564521ef0b2031d5a1df0e829c"
+  },
+  {
+   "contest": "taiwan-online-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/taiwan-online/taiwan-online-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Taiwan-Online-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "d09b43bc4a1b8c11283972305797d7d7a0cac1227b3480bdb330dfb8f119ba44"
   },
   {
    "contest": "taiwan-2023",
@@ -10773,6 +11523,36 @@
    "url": "https://icpc.global/regionals/finder/Taurida-Regional-2027/standings",
    "fetched": "2026-11-23",
    "sha256_source": "1afe7358ebba079132d1abab308abc4098d5dc1682916f721eda8e6a12d7ba71"
+  },
+  {
+   "contest": "tehran-online-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/tehran-online/tehran-online-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Tehran-Online-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "43253494c27c9ea3b2c1849b7b18c4494c7aa21fb3065b7d48a9d1a86d74b137"
+  },
+  {
+   "contest": "tehran-online-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/tehran-online/tehran-online-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Tehran-Online-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "73b9774069204303c95f50529109675d9c5005361ec6016181d214b3476adfb0"
+  },
+  {
+   "contest": "tehran-online-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/tehran-online/tehran-online-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/Tehran-Online-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "2a0d5f1a1adf1167ad9775eec545dd3e3a6fe2ba2483c1bafbc07f609976d59d"
   },
   {
    "contest": "tehran-2023",
@@ -11825,6 +12605,36 @@
    "sha256_source": "ee0b9b65892e4ce9e337bef624611f24885aaca5831946b5e31bd0acf024a6b1"
   },
   {
+   "contest": "urals-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/urals-qualification/urals-qualification-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/UralQ-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "ac117ff06034707513b732da8d22fc2d90e79e9a964cf216c4e359fc84bea231"
+  },
+  {
+   "contest": "urals-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/urals-qualification/urals-qualification-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/UralQ-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "66adb693e4ca0a9748db47994a39a1b55194115983d05a139d58a118b125c255"
+  },
+  {
+   "contest": "urals-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/urals-qualification/urals-qualification-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/UralQ-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "698b461e828ee1f7480074f43af362dcae68f53f289fe3e117ad4d9734e74ed8"
+  },
+  {
    "contest": "urals-2023",
    "artifact": "rankings",
    "shard": 3,
@@ -12205,6 +13015,26 @@
    "sha256_source": "c7dd61a4f4a57cf64a7f271bf1dccf409b64b24e440317cff7cb1a6c2a03d67a"
   },
   {
+   "contest": "uzbekistan-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/uzbekistan-qualification/uzbekistan-qualification-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/UzbekistanTajikistanQ-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "074249dcbb57c671814c8a044370edab3aa3ad2d4d7a439152610ae1c57bd8aa"
+  },
+  {
+   "contest": "uzbekistan-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/uzbekistan-qualification/uzbekistan-qualification-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/UzbekistanQ-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "b2416528f258799dc3a55e1fba9cbf69e09c8ecd0dd36d3cbd5bd5696726c48d"
+  },
+  {
    "contest": "uzbekistan-2023",
    "artifact": "standings",
    "shard": 3,
@@ -12433,6 +13263,36 @@
    "url": "https://icpc.global/regionals/finder/HCMC-2026/standings",
    "fetched": "2026-04-26",
    "sha256_source": "42a45efefb059157b95c5e437c16ad07b0c5e6bb971b0afdc713dbc02686ac3b"
+  },
+  {
+   "contest": "west-neerc-qualification-2023",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/west-neerc-qualification/west-neerc-qualification-2023/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/BelarusQ-2024/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "5790b4ef9cc393eaa2e0ab3256b76e6b27b76fc778cb05c318b633e3447c46fc"
+  },
+  {
+   "contest": "west-neerc-qualification-2024",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/west-neerc-qualification/west-neerc-qualification-2024/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/BelarusQ-2025/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "294a3a21ac42e869ed07bad999ed332fd1bfc8195f887fa0772dae22a2a8f213"
+  },
+  {
+   "contest": "west-neerc-qualification-2025",
+   "artifact": "standings",
+   "shard": 3,
+   "repo": "replay-3",
+   "path": "a/west-neerc-qualification/west-neerc-qualification-2025/standings/api-20261124/standings.html",
+   "url": "https://icpc.global/regionals/finder/BelarusQ-2026/standings",
+   "fetched": "2026-04-26",
+   "sha256_source": "2fb2e24fecf19dd737b064fc3c016d3c65a0e41f902aedd828a8c3e3e5630acc"
   },
   {
    "contest": "west-neerc-2023",
@@ -12953,796 +13813,6 @@
    "url": "https://icpc.global/regionals/finder/Xian-2024/standings",
    "fetched": "2026-04-26",
    "sha256_source": "6c286aeb6c53d3929ad9297cd5308a87c8600d2901d5c78928886aa124cd318f"
-  },
-  {
-   "contest": "amritapuri-online-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/amritapuri-online/amritapuri-online-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Asia-Amritapuri-First-Round-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "8a5392b58932ebb43808967a5450f5389041714be7eeb987578f48d32ba33121"
-  },
-  {
-   "contest": "azerbaijan-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/azerbaijan-qualification/azerbaijan-qualification-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Azerbaijan-Qualification-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "ecf792d25db285d2d64f84886e52e3bf9318191e2c101a21eff0581796f8bbb9"
-  },
-  {
-   "contest": "azerbaijan-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/azerbaijan-qualification/azerbaijan-qualification-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Azerbaijan-Qualification-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "685f1cd5218f2c910f8cf90374bd074629f6adb23e3a206923c41733832e6b9b"
-  },
-  {
-   "contest": "azerbaijan-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/azerbaijan-qualification/azerbaijan-qualification-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Azerbaijan-Qualification-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "9cd9137d37a20fbf545985ee24f0f2b25fc2919029f4bf822a0df5073c9f55d7"
-  },
-  {
-   "contest": "central-russia-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/central-russia-qualification/central-russia-qualification-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/CentralRussiaQ-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "0a36ee4f95118e7f7e3d778c1cdd336ec5ed03f2dc2d5a84f501a921c4882411"
-  },
-  {
-   "contest": "central-russia-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/central-russia-qualification/central-russia-qualification-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/CentralRussiaQ-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "fd68243ecd31267754222f4e255e5aa34031341be2b8b803a6307d2f98b77c9c"
-  },
-  {
-   "contest": "central-russia-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/central-russia-qualification/central-russia-qualification-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/CentralRussiaQ-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "c20cf91858f7578113ef18af611bcf327f19b73222f4bbd479f15647bbc1484b"
-  },
-  {
-   "contest": "chennai-online-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/chennai-online/chennai-online-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/ChennaiICPC-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "3ecd4025c023704f5a41bf8e117381dba6e359dac56a965c52da332625f4b9ec"
-  },
-  {
-   "contest": "dhaka-preliminary-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/dhaka-preliminary/dhaka-preliminary-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Dhaka-Preliminary-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "4954040d21d22956fb081804a7245eb9d7e22ee485f20ef5b68988a3cb27a248"
-  },
-  {
-   "contest": "east-siberia-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/east-siberia-qualification/east-siberia-qualification-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/EastSiberianQ-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "247b077ecffbdc11dc944176598944468b813a64f28f4c9ad2320a2070a3e117"
-  },
-  {
-   "contest": "far-east-russia-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/far-east-russia-qualification/far-east-russia-qualification-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/FEQ-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "7af0bdf90448cae57d41004a2f3c1f04a571ab92080697bef34dc8b00953a472"
-  },
-  {
-   "contest": "far-east-russia-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/far-east-russia-qualification/far-east-russia-qualification-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/FEQ-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "3d9bf77aab740b5cec07caea250bda767f8bd74eb0cdc7aaa78e7fc8dd16cc94"
-  },
-  {
-   "contest": "far-east-russia-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/far-east-russia-qualification/far-east-russia-qualification-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/FEQ-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "261dcfaf931c7b223e8e461967ce311ced799a5111c43cbeda0ef99830c98223"
-  },
-  {
-   "contest": "indonesia-national-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/indonesia-national/indonesia-national-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Jakarta-National-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "87ab34160778bb2042d1bc6d9c87ed95768e5058607751e5db885e1d45480144"
-  },
-  {
-   "contest": "indonesia-national-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/indonesia-national/indonesia-national-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Jakarta-National-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "1085da715086654359ebeee90a1abbf3a8dd7cc2064ae9b305a55a5a76f0511d"
-  },
-  {
-   "contest": "indonesia-national-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/indonesia-national/indonesia-national-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Jakarta-National-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "0ba3615aaf945e7bb1e465ab618fdc1d0ff914e13fd5cec44e44c417d8434956"
-  },
-  {
-   "contest": "japan-domestic-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/japan-domestic/japan-domestic-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Japan-First-Round-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "f12e67c3e70e0d92ed0cd98fc729014d9faa6503050d0bb36918942cc5a435ca"
-  },
-  {
-   "contest": "japan-domestic-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/japan-domestic/japan-domestic-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Japan-First-Round-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "470cad6983888bf8b312b896d8fe34276eb8bbddc898fb680a9ec3352c054681"
-  },
-  {
-   "contest": "japan-domestic-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/japan-domestic/japan-domestic-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Japan-First-Round-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "b69c051867d9fd1d8b62dd479d4106bd3cba0b350df38822dd6a01e28ac95dff"
-  },
-  {
-   "contest": "kazakhstan-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/kazakhstan-qualification/kazakhstan-qualification-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Kazakhstan-Q-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "5c0d9b51854cc7df921efef0c7166b26dc7050219a1cd6278d5f77ec9a2f7d04"
-  },
-  {
-   "contest": "kazakhstan-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/kazakhstan-qualification/kazakhstan-qualification-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Kazakhstan-Q-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "cb3d363aa691ff9a9b7e45fc5052ed8ffbb227d36a075f3d870c432f33a98bb0"
-  },
-  {
-   "contest": "korea-first-round-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/korea-first-round/korea-first-round-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Seoul-First-Round-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "9589392801ad2651e286023e9f5b9d863af013401df930544302c45175c3e3ca"
-  },
-  {
-   "contest": "korea-first-round-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/korea-first-round/korea-first-round-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Seoul-First-Round-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "be803e48c91dc2f483ffd60ee494153a77fb9f8ea03eb725de10487a10d037d3"
-  },
-  {
-   "contest": "korea-first-round-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/korea-first-round/korea-first-round-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Seoul-First-Round-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "41479544021bfc355171c8a59488de934119c6f106e00ee575886d5c0b63eba0"
-  },
-  {
-   "contest": "kyrgyzstan-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/kyrgyzstan-qualification/kyrgyzstan-qualification-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/KyrgyzstanQ-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "16b8c010f7208caf6582c2255dc4855fc805fe2a2dfb3dc8e716705403200f4c"
-  },
-  {
-   "contest": "kyrgyzstan-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/kyrgyzstan-qualification/kyrgyzstan-qualification-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/KyrgyzstanQ-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "f3e2f8e912a0a86396bd037b2907ef5e97b8b4889706665d9986039a7ef67384"
-  },
-  {
-   "contest": "kyrgyzstan-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/kyrgyzstan-qualification/kyrgyzstan-qualification-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/KyrgyzstanQ-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "68b8a0b4d8f3e2960e659e1b15c53e11817c3ceb0b97ee23cd742a6af8b3db73"
-  },
-  {
-   "contest": "moscow-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/moscow-qualification/moscow-qualification-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/MRCQ-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "3892160c48558d9aa181a2d2fe36ba9192a56fa59a5c6de63a0759707aa0413d"
-  },
-  {
-   "contest": "moscow-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/moscow-qualification/moscow-qualification-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/MRCQ-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "45102f29e651886fd2a9b70ac2aed5123cea42f04090c723b8c393a8d3b13d3a"
-  },
-  {
-   "contest": "moscow-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/moscow-qualification/moscow-qualification-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/MRCQ-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "9c83a76410a88d661bff16b87110139b71af6ef1c1dcc93e53c89c182062442c"
-  },
-  {
-   "contest": "north-russia-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/north-russia-qualification/north-russia-qualification-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/northwestern-qualification-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "d5c452c9447a98dfa6383ffa1430421f4e56fb85ef41b1f8a6187692f40346c1"
-  },
-  {
-   "contest": "north-russia-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/north-russia-qualification/north-russia-qualification-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/northwestern-qualification-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "1bdc83344601305f4de30e24fcf5185972085d9e141523924421769c5bca138f"
-  },
-  {
-   "contest": "north-russia-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/north-russia-qualification/north-russia-qualification-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/northwestern-qualification-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "7fa9a2e25c6fce5da4f4135590a562df6fc69d8daacd214189f1d1f011c1e27b"
-  },
-  {
-   "contest": "pakistan-preliminary-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/pakistan-preliminary/pakistan-preliminary-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Asia-Lahore-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "9292165e32920e0deac0f55296cb4bdb2788bce86f3667fda3371d3f9ee56e86"
-  },
-  {
-   "contest": "pakistan-preliminary-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/pakistan-preliminary/pakistan-preliminary-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Asia-Lahore-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "94d6c0a5be9142947d2f3488108356a30addf7e440df08ae5179ec40dac5677f"
-  },
-  {
-   "contest": "pakistan-preliminary-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/pakistan-preliminary/pakistan-preliminary-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Asia-Lahore-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "529ce73f93a7f8b3c1310f338ccbcc665718b467b4051280572ec20cedb6c737"
-  },
-  {
-   "contest": "romania-iasi-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/romania-iasi/romania-iasi-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Romania-Iasi-Subregion-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "feb32fe4313599720e381db268a050956972b24f895be3f4864e63900fde0beb"
-  },
-  {
-   "contest": "south-russia-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/south-russia-qualification/south-russia-qualification-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/SouthernVolgaRussiaQ-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "0aa081cabf6876022f4cb6f58a58573ba28755301b41ab112471949f370c639f"
-  },
-  {
-   "contest": "south-russia-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/south-russia-qualification/south-russia-qualification-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/SouthernVolgaRussiaQ-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "cbe96d314985f5af7e1aa625e26372a75bdae3aa0df245d44aa1ac79003e0cfe"
-  },
-  {
-   "contest": "south-russia-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/south-russia-qualification/south-russia-qualification-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/SouthernVolgaRussiaQ-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "5238ba46e5dc093effd9c1aeffc42fdc92a83296d2d9382aaa2f478acd50afd3"
-  },
-  {
-   "contest": "taiwan-online-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/taiwan-online/taiwan-online-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Taiwan-Online-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "c2ce7b0ff6235c2fac7730f43954309126218409dd964f0df4173a2d39551d4e"
-  },
-  {
-   "contest": "taiwan-online-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/taiwan-online/taiwan-online-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Taiwan-Online-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "f9ad9c000550dfa55683682fceb5b1a6949cfa564521ef0b2031d5a1df0e829c"
-  },
-  {
-   "contest": "taiwan-online-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/taiwan-online/taiwan-online-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Taiwan-Online-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "d09b43bc4a1b8c11283972305797d7d7a0cac1227b3480bdb330dfb8f119ba44"
-  },
-  {
-   "contest": "tehran-online-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/tehran-online/tehran-online-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Tehran-Online-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "43253494c27c9ea3b2c1849b7b18c4494c7aa21fb3065b7d48a9d1a86d74b137"
-  },
-  {
-   "contest": "tehran-online-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/tehran-online/tehran-online-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Tehran-Online-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "73b9774069204303c95f50529109675d9c5005361ec6016181d214b3476adfb0"
-  },
-  {
-   "contest": "tehran-online-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/tehran-online/tehran-online-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/Tehran-Online-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "2a0d5f1a1adf1167ad9775eec545dd3e3a6fe2ba2483c1bafbc07f609976d59d"
-  },
-  {
-   "contest": "urals-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/urals-qualification/urals-qualification-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/UralQ-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "ac117ff06034707513b732da8d22fc2d90e79e9a964cf216c4e359fc84bea231"
-  },
-  {
-   "contest": "urals-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/urals-qualification/urals-qualification-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/UralQ-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "66adb693e4ca0a9748db47994a39a1b55194115983d05a139d58a118b125c255"
-  },
-  {
-   "contest": "urals-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/urals-qualification/urals-qualification-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/UralQ-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "698b461e828ee1f7480074f43af362dcae68f53f289fe3e117ad4d9734e74ed8"
-  },
-  {
-   "contest": "uzbekistan-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/uzbekistan-qualification/uzbekistan-qualification-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/UzbekistanTajikistanQ-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "074249dcbb57c671814c8a044370edab3aa3ad2d4d7a439152610ae1c57bd8aa"
-  },
-  {
-   "contest": "uzbekistan-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/uzbekistan-qualification/uzbekistan-qualification-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/UzbekistanQ-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "b2416528f258799dc3a55e1fba9cbf69e09c8ecd0dd36d3cbd5bd5696726c48d"
-  },
-  {
-   "contest": "west-neerc-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/west-neerc-qualification/west-neerc-qualification-2023/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/BelarusQ-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "5790b4ef9cc393eaa2e0ab3256b76e6b27b76fc778cb05c318b633e3447c46fc"
-  },
-  {
-   "contest": "west-neerc-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/west-neerc-qualification/west-neerc-qualification-2024/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/BelarusQ-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "294a3a21ac42e869ed07bad999ed332fd1bfc8195f887fa0772dae22a2a8f213"
-  },
-  {
-   "contest": "west-neerc-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/west-neerc-qualification/west-neerc-qualification-2025/standings/api-20261124/standings.html",
-   "url": "https://icpc.global/regionals/finder/BelarusQ-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "2fb2e24fecf19dd737b064fc3c016d3c65a0e41f902aedd828a8c3e3e5630acc"
-  },
-  {
-   "contest": "egypt-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7661/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYONE-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "abe2b8e2ddce905e4382b0e82ffd184aa0aba844084d105bb5c2a966485c7755"
-  },
-  {
-   "contest": "egypt-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7662/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYTWO-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "51616bd2149c0a5c7c12a6673342f3b99370e4358f4d67ca8d76dbe2011df8c1"
-  },
-  {
-   "contest": "egypt-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7664/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYTHREE-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "5df6f59d8e13349469ec15e7baec7484dc491e26135c46070c7e9caa4415db46"
-  },
-  {
-   "contest": "egypt-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7670/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYFOUR-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "0e35994a422727ebadfecff7206fc6a0f413a570b528fa0c4eb99d6cf753efde"
-  },
-  {
-   "contest": "egypt-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7669/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYFIVE-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "98a6d996dcbe08b74869d78c3ecb083ccf154b41e5b56c4428b9a72adec453a2"
-  },
-  {
-   "contest": "egypt-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7667/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYSIX-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "f48d65e09e6be563231c255ba66762b6ce2b2bf7bc5ebe60989f54dff3c11143"
-  },
-  {
-   "contest": "egypt-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7666/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYSEVEN-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "3ed3c1f0e97df986e017524e590eb1a67e12a6d3670cd252a3fd67cb0826991b"
-  },
-  {
-   "contest": "egypt-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7668/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYEIGHT-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "65bbcf67dacad9f8a38ef645bf0d72307f39642aa7eca7d55dac4068c009ba14"
-  },
-  {
-   "contest": "egypt-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7660/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYNINE-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "73177349325d3bb97f313a097209cad98e89d01b055ee18f8394280107aa769b"
-  },
-  {
-   "contest": "egypt-qualification-2023",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2023/standings/api-20261125-7663/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYTEN-2024/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "6306e7668b4171b471559a232862d1aaaa128cb4aea18e2b5ab5024334f25850"
-  },
-  {
-   "contest": "egypt-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8841/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYONE-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "327374943ce1bb43ca41adbdc50c3dea8719c03c32f79334e93a05b6e3cf0c0a"
-  },
-  {
-   "contest": "egypt-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8843/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYTWO-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "e39bf116b86bb7e2747c065f9bdb99e83101c103d4a5f0be8f17e2d99c2986a6"
-  },
-  {
-   "contest": "egypt-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8838/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYTHREE-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "7b7c9370d588462909523a78115ce8d5064dd554f5e79c658e321578b7f3d32e"
-  },
-  {
-   "contest": "egypt-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8840/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYFOUR-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "9a0050d19968249887233a6d267e8d4e4e90ec6a687319a1a3f4692e5c2c45b7"
-  },
-  {
-   "contest": "egypt-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8837/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYFIVE-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "500345d513aca80362c36239d27f5df0ab5a4152b78ee18da5231f769f91387c"
-  },
-  {
-   "contest": "egypt-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8839/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYSIX-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "f346a3370d1ee2100ef8cfbbe9744f559cf5a37b643fc1ea876e7824fe07b993"
-  },
-  {
-   "contest": "egypt-qualification-2024",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2024/standings/api-20261125-8844/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYSEVEN-2025/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "2110b84bdfe810faafeca3a9d78d6750cc3c226e14809aaa6246db1f03224945"
-  },
-  {
-   "contest": "egypt-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9273/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYONE-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "aed4a25b24f0b7d40b7af6a8df354b9429d739f892a4f5c79be43ae0130de9a9"
-  },
-  {
-   "contest": "egypt-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9281/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYTWO-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "6483170508559a78b5d88aed2dbd07577949330812db21324a63c5b096f4417c"
-  },
-  {
-   "contest": "egypt-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9274/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYTHREE-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "1168080e7edb57763f30b59b59a64ec7929d5d22ac47937fa4aed502881df1ab"
-  },
-  {
-   "contest": "egypt-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9272/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYFOUR-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "7ec8d91e6e138ebab9b99d8c67a0acb9249436e7bb7f9590fc7ab207ca572c39"
-  },
-  {
-   "contest": "egypt-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9277/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYFIVE-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "a217e7cb2a2267feecea2d03c6370eaf0a9d3cd241dfce30e541954960e35252"
-  },
-  {
-   "contest": "egypt-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9276/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYSIX-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "84dbe4cd51c04e2eeeb6fe6fd2c304fbf3148e3cf173cc7351ae4ee9ea18fd86"
-  },
-  {
-   "contest": "egypt-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9279/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYSEVEN-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "524ffe9e9fb84cf196945311306d0164c064263897d2472fe6e367067b3b4072"
-  },
-  {
-   "contest": "egypt-qualification-2025",
-   "artifact": "standings",
-   "shard": 3,
-   "repo": "replay-3",
-   "path": "a/egypt-qualification/egypt-qualification-2025/standings/api-20261125-9275/standings.html",
-   "url": "https://icpc.global/regionals/finder/ECPCQDAYEIGHT-2026/standings",
-   "fetched": "2026-04-26",
-   "sha256_source": "91d464ef9de9a24e7d42fd80d2d1f066292b50d77a7bf394aa2ded0ad5f3ac0b"
   }
  ]
 }
